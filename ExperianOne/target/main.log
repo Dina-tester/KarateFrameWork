@@ -1,0 +1,90 @@
+18:51:03.643 skipping bootstrap configuration: could not find or read file: classpath:karate-config.js
+18:51:03.792 [print] {
+  "foo": "bar"
+}
+
+18:51:03.807 [print] {
+  "foo": "world"
+}
+
+17:57:29.079 assertion failed: path: $.foo, actual: 'world', expected: 'World', reason: not equal
+17:57:30.009 skipping bootstrap configuration: could not find or read file: classpath:karate-config.js
+17:57:31.373 request:
+1 > GET https://reqres.in/api/users/2
+1 > Accept-Encoding: gzip,deflate
+1 > Connection: Keep-Alive
+1 > Host: reqres.in
+1 > User-Agent: Apache-HttpClient/4.5.11 (Java/9)
+
+17:57:32.970 response time in milliseconds: 1595.67
+1 < 200
+1 < Access-Control-Allow-Origin: *
+1 < Age: 1826
+1 < CF-Cache-Status: HIT
+1 < CF-RAY: 587f56c93d36eb35-LAX
+1 < Cache-Control: max-age=14400
+1 < Connection: keep-alive
+1 < Content-Type: application/json; charset=utf-8
+1 < Date: Wed, 22 Apr 2020 12:27:27 GMT
+1 < Etag: W/"173-1Z8bn0V7UjH6FK7NCaza1ccWXQk"
+1 < Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+1 < Server: cloudflare
+1 < Set-Cookie: __cfduid=d0dc17766233a629b0c61b54d7a3a34e61587558447; expires=Fri, 22-May-20 12:27:27 GMT; path=/; domain=.reqres.in; HttpOnly; SameSite=Lax; Secure
+1 < Transfer-Encoding: chunked
+1 < Vary: Accept-Encoding
+1 < Via: 1.1 vegur
+1 < X-Powered-By: Express
+1 < cf-request-id: 02437491bf0000eb3576b1c200000001
+{"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg"},"ad":{"company":"StatusCode Weekly","url":"http://statuscode.org/","text":"A weekly newsletter focusing on software development, infrastructure, the server, performance, and the stack end of things."}}
+
+17:57:33.063 skipping bootstrap configuration: could not find or read file: classpath:karate-config.js
+17:57:33.079 request:
+1 > GET https://reqres.in/api/users/2
+1 > Accept-Encoding: gzip,deflate
+1 > Connection: Keep-Alive
+1 > Host: reqres.in
+1 > User-Agent: Apache-HttpClient/4.5.11 (Java/9)
+
+17:57:33.859 response time in milliseconds: 782.57
+1 < 200
+1 < Access-Control-Allow-Origin: *
+1 < Age: 1827
+1 < CF-Cache-Status: HIT
+1 < CF-RAY: 587f56cf4b410528-LAX
+1 < Cache-Control: max-age=14400
+1 < Connection: keep-alive
+1 < Content-Type: application/json; charset=utf-8
+1 < Date: Wed, 22 Apr 2020 12:27:28 GMT
+1 < Etag: W/"173-1Z8bn0V7UjH6FK7NCaza1ccWXQk"
+1 < Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+1 < Server: cloudflare
+1 < Set-Cookie: __cfduid=ddcfa6c81130b446b0fbd7b0388ee501a1587558448; expires=Fri, 22-May-20 12:27:28 GMT; path=/; domain=.reqres.in; HttpOnly; SameSite=Lax; Secure
+1 < Transfer-Encoding: chunked
+1 < Vary: Accept-Encoding
+1 < Via: 1.1 vegur
+1 < X-Powered-By: Express
+1 < cf-request-id: 024374958800000528b79d8200000001
+{"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg"},"ad":{"company":"StatusCode Weekly","url":"http://statuscode.org/","text":"A weekly newsletter focusing on software development, infrastructure, the server, performance, and the stack end of things."}}
+
+17:57:33.890 [print] {
+  "ad": {
+    "company": "StatusCode Weekly",
+    "text": "A weekly newsletter focusing on software development, infrastructure, the server, performance, and the stack end of things.",
+    "url": "http://statuscode.org/"
+  },
+  "data": {
+    "last_name": "Weaver",
+    "id": 2,
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg",
+    "first_name": "Janet",
+    "email": "janet.weaver@reqres.in"
+  }
+}
+
+id": 3,
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/olegpogodaev/128.jpg",
+    "first_name": "Emma",
+    "email": "emma.wong@reqres.in"
+  }
+}
+

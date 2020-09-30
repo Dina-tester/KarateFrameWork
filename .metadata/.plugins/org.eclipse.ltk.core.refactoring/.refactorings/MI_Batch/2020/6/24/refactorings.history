@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;listFiles&apos; in &apos;Conversion.main(...)&apos; to &apos;ODSFiles&apos;&#x0D;&#x0A;- Original project: &apos;MI_Batch&apos;&#x0D;&#x0A;- Original element: &apos;Conversion.main(String[]).listFiles&apos;&#x0D;&#x0A;- Renamed element: &apos;listFiles&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;listFiles&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;{Conversion.java[Conversion~main~\[QString;@listFiles!172!206!179!187!\[QFile;!0!false" name="ODSFiles" references="true" stamp="1591768023318" version="1.0"/>
+</session>

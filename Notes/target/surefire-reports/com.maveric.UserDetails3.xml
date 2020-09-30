@@ -1,0 +1,13 @@
+<testsuite failures="0" name="com/maveric/UserDetails3.feature" skipped="0" tests="1" time="4.592928">
+  <testcase classname="com.maveric.UserDetails3" name="request user 3 details" time="4.592928">
+    <system-out>* def expectedOutput = read('result.json') ................................ passed
+* def result = call read('UserDetails2.feature') .......................... passed
+Given url 'https://reqres.in/api/users/3' ................................. passed
+When method GET ........................................................... passed
+Then status 200 ........................................................... passed
+Then print response ....................................................... passed
+And match response == expectedOutput[1] ................................... passed
+* print 'Output of UserDetails2', result .................................. passed
+* print 'UserDetails2_first_name', result.response.data.first_name ........ passed</system-out>
+  </testcase>
+</testsuite>

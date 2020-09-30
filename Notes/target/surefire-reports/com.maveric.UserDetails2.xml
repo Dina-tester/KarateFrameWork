@@ -1,0 +1,10 @@
+<testsuite failures="0" name="com/maveric/UserDetails2.feature" skipped="0" tests="1" time="3.351179">
+  <testcase classname="com.maveric.UserDetails2" name="request user 2 details" time="3.351179">
+    <system-out>* def expectedOutput = read('result.json') ................................ passed
+Given url 'https://reqres.in/api/users/2' ................................. passed
+When method GET ........................................................... passed
+Then status 200 ........................................................... passed
+Then print response ....................................................... passed
+And match response == expectedOutput[0] ................................... passed</system-out>
+  </testcase>
+</testsuite>

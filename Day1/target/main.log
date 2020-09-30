@@ -1,0 +1,24 @@
+17:05:16.376 skipping bootstrap configuration: could not find or read file: classpath:karate-config.js
+17:05:16.437 [print] world
+17:05:16.437 [print] 5
+17:05:16.541 [print] the value of myNum :5
+17:05:16.700 [print] The value of myJson is :  {
+  "foo": "bar",
+  "baz": [
+    1,
+    2,
+    3
+  ]
+}
+
+
+17:12:39.341 [print] The value of myJson is :
+{
+  "foo": "bar",
+  "baz": [
+    1,
+    2,
+    3
+  ]
+}
+

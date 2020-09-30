@@ -1,0 +1,3434 @@
+18:46:29.967 skipping bootstrap configuration: could not find or read file: classpath:karate-config.js
+18:46:31.345 request:
+1 > GET https://reqres.in/api/users/2
+1 > Accept-Encoding: gzip,deflate
+1 > Connection: Keep-Alive
+1 > Host: reqres.in
+1 > User-Agent: Apache-HttpClient/4.5.11 (Java/9)
+
+18:46:32.745 response time in milliseconds: 1402.73
+1 < 200
+1 < Access-Control-Allow-Origin: *
+1 < Age: 1545
+1 < CF-Cache-Status: HIT
+1 < CF-RAY: 58a09405ca4df32d-ATL
+1 < Cache-Control: max-age=14400
+1 < Connection: keep-alive
+1 < Content-Type: application/json; charset=utf-8
+1 < Date: Sun, 26 Apr 2020 13:16:25 GMT
+1 < Etag: W/"173-1Z8bn0V7UjH6FK7NCaza1ccWXQk"
+1 < Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+1 < Server: cloudflare
+1 < Set-Cookie: __cfduid=d3000bfe48cc286593146456d9c359f601587906985; expires=Tue, 26-May-20 13:16:25 GMT; path=/; domain=.reqres.in; HttpOnly; SameSite=Lax; Secure
+1 < Transfer-Encoding: chunked
+1 < Vary: Accept-Encoding
+1 < Via: 1.1 vegur
+1 < X-Powered-By: Express
+1 < cf-request-id: 02583ad7980000f32db3a9c200000001
+{"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg"},"ad":{"company":"StatusCode Weekly","url":"http://statuscode.org/","text":"A weekly newsletter focusing on software development, infrastructure, the server, performance, and the stack end of things."}}
+
+18:46:32.839 [print] {
+  "ad": {
+    "company": "StatusCode Weekly",
+    "text": "A weekly newsletter focusing on software development, infrastructure, the server, performance, and the stack end of things.",
+    "url": "http://statuscode.org/"
+  },
+  "data": {
+    "last_name": "Weaver",
+    "id": 2,
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg",
+    "first_name": "Janet",
+    "email": "janet.weaver@reqres.in"
+  }
+}
+
+18:46:33.254 skipping bootstrap configuration: could not find or read file: classpath:karate-config.js
+18:46:33.271 request:
+1 > GET https://reqres.in/api/users/2
+1 > Accept-Encoding: gzip,deflate
+1 > Connection: Keep-Alive
+1 > Host: reqres.in
+1 > User-Agent: Apache-HttpClient/4.5.11 (Java/9)
+
+18:46:34.088 response time in milliseconds: 807.90
+1 < 200
+1 < Access-Control-Allow-Origin: *
+1 < Age: 1547
+1 < CF-Cache-Status: HIT
+1 < CF-RAY: 58a0940e5ec6f1ca-ATL
+1 < Cache-Control: max-age=14400
+1 < Connection: keep-alive
+1 < Content-Type: application/json; charset=utf-8
+1 < Date: Sun, 26 Apr 2020 13:16:27 GMT
+1 < Etag: W/"173-1Z8bn0V7UjH6FK7NCaza1ccWXQk"
+1 < Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+1 < Server: cloudflare
+1 < Set-Cookie: __cfduid=d03b0d5053c4438b71660971b650e36861587906987; expires=Tue, 26-May-20 13:16:27 GMT; path=/; domain=.reqres.in; HttpOnly; SameSite=Lax; Secure
+1 < Transfer-Encoding: chunked
+1 < Vary: Accept-Encoding
+1 < Via: 1.1 vegur
+1 < X-Powered-By: Express
+1 < cf-request-id: 02583adcf60000f1cad7aaf200000001
+{"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg"},"ad":{"company":"StatusCode Weekly","url":"http://statuscode.org/","text":"A weekly newsletter focusing on software development, infrastructure, the server, performance, and the stack end of things."}}
+
+18:46:34.088 [print] {
+  "ad": {
+    "company": "StatusCode Weekly",
+    "text": "A weekly newsletter focusing on software development, infrastructure, the server, performance, and the stack end of things.",
+    "url": "http://statuscode.org/"
+  },
+  "data": {
+    "last_name": "Weaver",
+    "id": 2,
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg",
+    "first_name": "Janet",
+    "email": "janet.weaver@reqres.in"
+  }
+}
+
+18:46:34.229 skipping bootstrap configuration: could not find or read file: classpath:karate-config.js
+18:46:34.291 request:
+1 > GET https://reqres.in/api/users/2
+1 > Accept-Encoding: gzip,deflate
+1 > Connection: Keep-Alive
+1 > Host: reqres.in
+1 > User-Agent: Apache-HttpClient/4.5.11 (Java/9)
+
+18:46:35.131 response time in milliseconds: 831.16
+1 < 200
+1 < Access-Control-Allow-Origin: *
+1 < Age: 1548
+1 < CF-Cache-Status: HIT
+1 < CF-RAY: 58a09414d98bf1ae-ATL
+1 < Cache-Control: max-age=14400
+1 < Connection: keep-alive
+1 < Content-Type: application/json; charset=utf-8
+1 < Date: Sun, 26 Apr 2020 13:16:28 GMT
+1 < Etag: W/"173-1Z8bn0V7UjH6FK7NCaza1ccWXQk"
+1 < Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+1 < Server: cloudflare
+1 < Set-Cookie: __cfduid=df9b8148f92bcb2310a7c9abeb465ed141587906988; expires=Tue, 26-May-20 13:16:28 GMT; path=/; domain=.reqres.in; HttpOnly; SameSite=Lax; Secure
+1 < Transfer-Encoding: chunked
+1 < Vary: Accept-Encoding
+1 < Via: 1.1 vegur
+1 < X-Powered-By: Express
+1 < cf-request-id: 02583ae1060000f1ae23a54200000001
+{"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg"},"ad":{"company":"StatusCode Weekly","url":"http://statuscode.org/","text":"A weekly newsletter focusing on software development, infrastructure, the server, performance, and the stack end of things."}}
+
+18:46:35.131 [print] {
+  "ad": {
+    "company": "StatusCode Weekly",
+    "text": "A weekly newsletter focusing on software development, infrastructure, the server, performance, and the stack end of things.",
+    "url": "http://statuscode.org/"
+  },
+  "data": {
+    "last_name": "Weaver",
+    "id": 2,
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg",
+    "first_name": "Janet",
+    "email": "janet.weaver@reqres.in"
+  }
+}
+
+18:46:35.147 request:
+1 > GET https://reqres.in/api/users/3
+1 > Accept-Encoding: gzip,deflate
+1 > Connection: Keep-Alive
+1 > Host: reqres.in
+1 > User-Agent: Apache-HttpClient/4.5.11 (Java/9)
+
+18:46:35.959 response time in milliseconds: 801.54
+1 < 200
+1 < Access-Control-Allow-Origin: *
+1 < Age: 870
+1 < CF-Cache-Status: HIT
+1 < CF-RAY: 58a0941a1928d308-ATL
+1 < Cache-Control: max-age=14400
+1 < Connection: keep-alive
+1 < Content-Type: application/json; charset=utf-8
+1 < Date: Sun, 26 Apr 2020 13:16:29 GMT
+1 < Etag: W/"16e-/dQyOreIv6pEupp8RbP+u+utK/A"
+1 < Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+1 < Server: cloudflare
+1 < Set-Cookie: __cfduid=dda4a4a3cadd9009807d4b934eb97c71a1587906989; expires=Tue, 26-May-20 13:16:29 GMT; path=/; domain=.reqres.in; HttpOnly; SameSite=Lax; Secure
+1 < Transfer-Encoding: chunked
+1 < Vary: Accept-Encoding
+1 < Via: 1.1 vegur
+1 < X-Powered-By: Express
+1 < cf-request-id: 02583ae44b0000d308fc82f200000001
+{"data":{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/olegpogodaev/128.jpg"},"ad":{"company":"StatusCode Weekly","url":"http://statuscode.org/","text":"A weekly newsletter focusing on software development, infrastructure, the server, performance, and the stack end of things."}}
+
+18:46:35.959 [print] {
+  "ad": {
+    "company": "StatusCode Weekly",
+    "text": "A weekly newsletter focusing on software development, infrastructure, the server, performance, and the stack end of things.",
+    "url": "http://statuscode.org/"
+  },
+  "data": {
+    "last_name": "Wong",
+    "id": 3,
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/olegpogodaev/128.jpg",
+    "first_name": "Emma",
+    "email": "emma.wong@reqres.in"
+  }
+}
+
+18:46:36.015 [print] Output of UserDetails2 {
+  "__arg": null,
+  "responseType": "json",
+  "responseHeaders": {
+    "Date": [
+      "Sun, 26 Apr 2020 13:16:28 GMT"
+    ],
+    "Content-Type": [
+      "application/json; charset=utf-8"
+    ],
+    "Transfer-Encoding": [
+      "chunked"
+    ],
+    "Connection": [
+      "keep-alive"
+    ],
+    "Set-Cookie": [
+      "__cfduid=df9b8148f92bcb2310a7c9abeb465ed141587906988; expires=Tue, 26-May-20 13:16:28 GMT; path=/; domain=.reqres.in; HttpOnly; SameSite=Lax; Secure"
+    ],
+    "X-Powered-By": [
+      "Express"
+    ],
+    "Access-Control-Allow-Origin": [
+      "*"
+    ],
+    "Etag": [
+      "W/\"173-1Z8bn0V7UjH6FK7NCaza1ccWXQk\""
+    ],
+    "Via": [
+      "1.1 vegur"
+    ],
+    "Cache-Control": [
+      "max-age=14400"
+    ],
+    "CF-Cache-Status": [
+      "HIT"
+    ],
+    "Age": [
+      "1548"
+    ],
+    "Expect-CT": [
+      "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\""
+    ],
+    "Vary": [
+      "Accept-Encoding"
+    ],
+    "Server": [
+      "cloudflare"
+    ],
+    "CF-RAY": [
+      "58a09414d98bf1ae-ATL"
+    ],
+    "cf-request-id": [
+      "02583ae1060000f1ae23a54200000001"
+    ]
+  },
+  "responseTime": 831,
+  "response": {
+    "ad": {
+      "company": "StatusCode Weekly",
+      "text": "A weekly newsletter focusing on software development, infrastructure, the server, performance, and the stack end of things.",
+      "url": "http://statuscode.org/"
+    },
+    "data": {
+      "last_name": "Weaver",
+      "id": 2,
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg",
+      "first_name": "Janet",
+      "email": "janet.weaver@reqres.in"
+    }
+  },
+  "requestTimeStamp": 1587906994291,
+  "expectedOutput": [
+    {
+      "data": {
+        "id": 2,
+        "email": "janet.weaver@reqres.in",
+        "first_name": "Janet",
+        "last_name": "Weaver",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg"
+      },
+      "ad": {
+        "company": "StatusCode Weekly",
+        "url": "http://statuscode.org/",
+        "text": "A weekly newsletter focusing on software development, infrastructure, the server, performance, and the stack end of things."
+      }
+    },
+    {
+      "data": {
+        "id": 3,
+        "email": "emma.wong@reqres.in",
+        "first_name": "Emma",
+        "last_name": "Wong",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/olegpogodaev/128.jpg"
+      },
+      "ad": {
+        "company": "StatusCode Weekly",
+        "url": "http://statuscode.org/",
+        "text": "A weekly newsletter focusing on software development, infrastructure, the server, performance, and the stack end of things."
+      }
+    }
+  ],
+  "responseStatus": 200,
+  "__loop": -1,
+  "responseCookies": {
+    "__cfduid": {
+      "name": "__cfduid",
+      "value": "df9b8148f92bcb2310a7c9abeb465ed141587906988",
+      "domain": "reqres.in",
+      "path": "/",
+      "expires": "1590498988000",
+      "persistent": "true",
+      "secure": "true"
+    }
+  }
+}
+
+18:46:36.132 [print] UserDetails2_first_name Janet
+sian.net/rest/api/2/issue/DEM-8/votes",
+          "votes": 0,
+          "hasVoted": false
+        }
+      }
+    },
+    {
+      "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+      "id": "10006",
+      "self": "https://flygbra.atlassian.net/rest/api/2/issue/10006",
+      "key": "DEM-7",
+      "fields": {
+        "statuscategorychangedate": "2020-01-23T01:50:03.635+0530",
+        "issuetype": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issuetype/10005",
+          "id": "10005",
+          "description": "A problem or error.",
+          "iconUrl": "https://flygbra.atlassian.net/secure/viewavatar?size=medium&avatarId=10303&avatarType=issuetype",
+          "name": "Bug",
+          "subtask": false,
+          "avatarId": 10303
+        },
+        "timespent": null,
+        "project": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/project/10001",
+          "id": "10001",
+          "key": "DEM",
+          "name": "DemoBug",
+          "projectTypeKey": "software",
+          "simplified": false,
+          "avatarUrls": {
+            "48x48": "https://flygbra.atlassian.net/secure/projectavatar?pid=10001&avatarId=10417",
+            "24x24": "https://flygbra.atlassian.net/secure/projectavatar?size=small&s=small&pid=10001&avatarId=10417",
+            "16x16": "https://flygbra.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&pid=10001&avatarId=10417",
+            "32x32": "https://flygbra.atlassian.net/secure/projectavatar?size=medium&s=medium&pid=10001&avatarId=10417"
+          }
+        },
+        "fixVersions": [
+        ],
+        "aggregatetimespent": null,
+        "resolution": null,
+        "resolutiondate": null,
+        "workratio": -1,
+        "lastViewed": null,
+        "watches": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issue/DEM-7/watchers",
+          "watchCount": 1,
+          "isWatching": true
+        },
+        "created": "2020-01-23T01:50:03.278+0530",
+        "customfield_10020": null,
+        "customfield_10021": null,
+        "customfield_10022": null,
+        "priority": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/priority/3",
+          "iconUrl": "https://flygbra.atlassian.net/images/icons/priorities/medium.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "customfield_10023": null,
+        "labels": [
+          "Automation"
+        ],
+        "customfield_10016": null,
+        "customfield_10017": null,
+        "customfield_10018": {
+          "hasEpicLinkFieldDependency": false,
+          "showField": false,
+          "nonEditableReason": {
+            "reason": "PLUGIN_LICENSE_ERROR",
+            "message": "The Parent Link is only available to Jira Premium users."
+          }
+        },
+        "customfield_10019": "0|i0001b:",
+        "aggregatetimeoriginalestimate": null,
+        "timeestimate": null,
+        "versions": [
+        ],
+        "issuelinks": [
+        ],
+        "assignee": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/user?accountId=5e27d7a80fa3a90c9eb69c8c",
+          "accountId": "5e27d7a80fa3a90c9eb69c8c",
+          "emailAddress": "dineshdina59@gmail.com",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=32&s=32"
+          },
+          "displayName": "D_ ina",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "updated": "2020-01-23T01:50:03.278+0530",
+        "status": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/status/10000",
+          "description": "",
+          "iconUrl": "https://flygbra.atlassian.net/",
+          "name": "To Do",
+          "id": "10000",
+          "statusCategory": {
+            "self": "https://flygbra.atlassian.net/rest/api/2/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        },
+        "components": [
+        ],
+        "timeoriginalestimate": null,
+        "description": "Hi,\r\n\r\nUnable to view Low cost flight Even when the checkbox \"View low cost calendar\" is ticked\r\n\r\n1.Launch Url https://flygbra.se/\r\n2.Click a tab Book Flight\r\n3.Enter the Source as LYON and Destination as GOTEBORG\r\n4.Select the trip type as One way trip ,Travel date: 14- Feb-2020 ,Ticket Type :Student and Passenger: 01,\r\n5.Click the check box low cost \"View low cost flight\" then Click Search Flight \r\n\r\n\r\nIssue : Low cost flight not visible . I shows only the normal flight details. \r\n\r\nExpected :when the check box \"View low cost calendar\" is ticked. We need only the low cost flights in choose booking page with available dates . ",
+        "customfield_10010": null,
+        "customfield_10014": null,
+        "customfield_10015": null,
+        "customfield_10005": null,
+        "customfield_10006": null,
+        "security": null,
+        "customfield_10007": null,
+        "customfield_10008": null,
+        "customfield_10009": null,
+        "aggregatetimeestimate": null,
+        "summary": "Release 01 Build 02: Unable to view Low cost flight Even when the checkbox \"View low cost calendar\" is ticked",
+        "creator": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/user?accountId=5e27d7a80fa3a90c9eb69c8c",
+          "accountId": "5e27d7a80fa3a90c9eb69c8c",
+          "emailAddress": "dineshdina59@gmail.com",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=32&s=32"
+          },
+          "displayName": "D_ ina",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [
+        ],
+        "reporter": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/user?accountId=5e27d7a80fa3a90c9eb69c8c",
+          "accountId": "5e27d7a80fa3a90c9eb69c8c",
+          "emailAddress": "dineshdina59@gmail.com",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=32&s=32"
+          },
+          "displayName": "D_ ina",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "customfield_10000": "{}",
+        "aggregateprogress": {
+          "progress": 0,
+          "total": 0
+        },
+        "customfield_10001": null,
+        "customfield_10002": null,
+        "customfield_10003": null,
+        "customfield_10004": null,
+        "environment": null,
+        "duedate": null,
+        "progress": {
+          "progress": 0,
+          "total": 0
+        },
+        "votes": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issue/DEM-7/votes",
+          "votes": 0,
+          "hasVoted": false
+        }
+      }
+    },
+    {
+      "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+      "id": "10005",
+      "self": "https://flygbra.atlassian.net/rest/api/2/issue/10005",
+      "key": "DEM-6",
+      "fields": {
+        "statuscategorychangedate": "2020-01-23T01:37:10.060+0530",
+        "issuetype": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issuetype/10005",
+          "id": "10005",
+          "description": "A problem or error.",
+          "iconUrl": "https://flygbra.atlassian.net/secure/viewavatar?size=medium&avatarId=10303&avatarType=issuetype",
+          "name": "Bug",
+          "subtask": false,
+          "avatarId": 10303
+        },
+        "timespent": null,
+        "project": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/project/10001",
+          "id": "10001",
+          "key": "DEM",
+          "name": "DemoBug",
+          "projectTypeKey": "software",
+          "simplified": false,
+          "avatarUrls": {
+            "48x48": "https://flygbra.atlassian.net/secure/projectavatar?pid=10001&avatarId=10417",
+            "24x24": "https://flygbra.atlassian.net/secure/projectavatar?size=small&s=small&pid=10001&avatarId=10417",
+            "16x16": "https://flygbra.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&pid=10001&avatarId=10417",
+            "32x32": "https://flygbra.atlassian.net/secure/projectavatar?size=medium&s=medium&pid=10001&avatarId=10417"
+          }
+        },
+        "fixVersions": [
+        ],
+        "aggregatetimespent": null,
+        "resolution": null,
+        "resolutiondate": null,
+        "workratio": -1,
+        "watches": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issue/DEM-6/watchers",
+          "watchCount": 1,
+          "isWatching": true
+        },
+        "lastViewed": null,
+        "created": "2020-01-23T01:37:09.832+0530",
+        "customfield_10020": null,
+        "customfield_10021": null,
+        "customfield_10022": null,
+        "priority": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/priority/4",
+          "iconUrl": "https://flygbra.atlassian.net/images/icons/priorities/low.svg",
+          "name": "Low",
+          "id": "4"
+        },
+        "customfield_10023": null,
+        "labels": [
+          "Automation"
+        ],
+        "customfield_10016": null,
+        "customfield_10017": null,
+        "customfield_10018": {
+          "hasEpicLinkFieldDependency": false,
+          "showField": false,
+          "nonEditableReason": {
+            "reason": "PLUGIN_LICENSE_ERROR",
+            "message": "The Parent Link is only available to Jira Premium users."
+          }
+        },
+        "customfield_10019": "0|i00013:",
+        "timeestimate": null,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [
+        ],
+        "issuelinks": [
+        ],
+        "assignee": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/user?accountId=5e27d7a80fa3a90c9eb69c8c",
+          "accountId": "5e27d7a80fa3a90c9eb69c8c",
+          "emailAddress": "dineshdina59@gmail.com",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=32&s=32"
+          },
+          "displayName": "D_ ina",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "updated": "2020-01-23T01:37:09.832+0530",
+        "status": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/status/10000",
+          "description": "",
+          "iconUrl": "https://flygbra.atlassian.net/",
+          "name": "To Do",
+          "id": "10000",
+          "statusCategory": {
+            "self": "https://flygbra.atlassian.net/rest/api/2/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        },
+        "components": [
+        ],
+        "timeoriginalestimate": null,
+        "description": "Hi,\r\n\r\nUnable to Show price comparison details .Which present in Choose flight Page. \r\n\r\n1.Launch Url https://flygbra.se/\r\n2.Click a tab Book Flight\r\n3.Enter the Source as |STOCKHOLM and Destination as MaGOTEBORG\r\n4.Select the trip type as One way trip ,Travel date: 14- Feb-2020 ,Ticket Type :Youth and Passenger: 02,then Click Search Flight \r\n\r\n\r\nIssue : Can't able to Expand/View the Show price comparision link .Which is in Choose flight page .\r\n\r\nExpected :Show price comparison link should be viewed with price comparision detail about different clauses.",
+        "customfield_10010": null,
+        "customfield_10014": null,
+        "customfield_10015": null,
+        "customfield_10005": null,
+        "customfield_10006": null,
+        "customfield_10007": null,
+        "security": null,
+        "customfield_10008": null,
+        "aggregatetimeestimate": null,
+        "customfield_10009": null,
+        "summary": "Release 01 Build 01: Unable to click Show price comparison details",
+        "creator": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/user?accountId=5e27d7a80fa3a90c9eb69c8c",
+          "accountId": "5e27d7a80fa3a90c9eb69c8c",
+          "emailAddress": "dineshdina59@gmail.com",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=32&s=32"
+          },
+          "displayName": "D_ ina",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [
+        ],
+        "reporter": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/user?accountId=5e27d7a80fa3a90c9eb69c8c",
+          "accountId": "5e27d7a80fa3a90c9eb69c8c",
+          "emailAddress": "dineshdina59@gmail.com",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=32&s=32"
+          },
+          "displayName": "D_ ina",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+          "progress": 0,
+          "total": 0
+        },
+        "customfield_10000": "{}",
+        "customfield_10001": null,
+        "customfield_10002": null,
+        "customfield_10003": null,
+        "customfield_10004": null,
+        "environment": null,
+        "duedate": null,
+        "progress": {
+          "progress": 0,
+          "total": 0
+        },
+        "votes": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issue/DEM-6/votes",
+          "votes": 0,
+          "hasVoted": false
+        }
+      }
+    },
+    {
+      "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+      "id": "10004",
+      "self": "https://flygbra.atlassian.net/rest/api/2/issue/10004",
+      "key": "DEM-5",
+      "fields": {
+        "statuscategorychangedate": "2020-01-23T01:13:03.503+0530",
+        "issuetype": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issuetype/10005",
+          "id": "10005",
+          "description": "A problem or error.",
+          "iconUrl": "https://flygbra.atlassian.net/secure/viewavatar?size=medium&avatarId=10303&avatarType=issuetype",
+          "name": "Bug",
+          "subtask": false,
+          "avatarId": 10303
+        },
+        "timespent": null,
+        "project": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/project/10001",
+          "id": "10001",
+          "key": "DEM",
+          "name": "DemoBug",
+          "projectTypeKey": "software",
+          "simplified": false,
+          "avatarUrls": {
+            "48x48": "https://flygbra.atlassian.net/secure/projectavatar?pid=10001&avatarId=10417",
+            "24x24": "https://flygbra.atlassian.net/secure/projectavatar?size=small&s=small&pid=10001&avatarId=10417",
+            "16x16": "https://flygbra.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&pid=10001&avatarId=10417",
+            "32x32": "https://flygbra.atlassian.net/secure/projectavatar?size=medium&s=medium&pid=10001&avatarId=10417"
+          }
+        },
+        "fixVersions": [
+        ],
+        "aggregatetimespent": null,
+        "resolution": null,
+        "resolutiondate": null,
+        "workratio": -1,
+        "lastViewed": null,
+        "watches": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issue/DEM-5/watchers",
+          "watchCount": 1,
+          "isWatching": true
+        },
+        "created": "2020-01-23T01:13:03.306+0530",
+        "customfield_10020": null,
+        "customfield_10021": null,
+        "customfield_10022": null,
+        "priority": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/priority/3",
+          "iconUrl": "https://flygbra.atlassian.net/images/icons/priorities/medium.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "customfield_10023": null,
+        "labels": [
+          "Automation"
+        ],
+        "customfield_10016": null,
+        "customfield_10017": null,
+        "customfield_10018": {
+          "hasEpicLinkFieldDependency": false,
+          "showField": false,
+          "nonEditableReason": {
+            "reason": "PLUGIN_LICENSE_ERROR",
+            "message": "The Parent Link is only available to Jira Premium users."
+          }
+        },
+        "customfield_10019": "0|i0000v:",
+        "timeestimate": null,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [
+        ],
+        "issuelinks": [
+        ],
+        "assignee": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/user?accountId=5e27d7a80fa3a90c9eb69c8c",
+          "accountId": "5e27d7a80fa3a90c9eb69c8c",
+          "emailAddress": "dineshdina59@gmail.com",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=32&s=32"
+          },
+          "displayName": "D_ ina",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "updated": "2020-01-23T02:23:43.035+0530",
+        "status": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/status/10000",
+          "description": "",
+          "iconUrl": "https://flygbra.atlassian.net/",
+          "name": "To Do",
+          "id": "10000",
+          "statusCategory": {
+            "self": "https://flygbra.atlassian.net/rest/api/2/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        },
+        "components": [
+        ],
+        "timeoriginalestimate": null,
+        "description": "Hi,\n\nUnable to add Cancellation protection charges.Which present in service page \n\nSteps for Reproduce :\n\n1.Launch Url [https://flygbra.se/|https://flygbra.se/]\n2.Click a tab Book Flight\n3.Enter the source as Ostersund/Are and destination as Malmo\n4.Select the trip type as One way trip ,Travel date: 14- Feb-2020 ,Ticket Type :Youth and Passenger: 03,then Click Search Flight \n5.Select flight :12:35 Ostersund - Malmo ,Good Fast class and then click continue\n6.In Next-Page : Fill the Passenger information and contact information then move to next page.\n\nIssue : When i try to Add the cancellation protection charges in service page its not added. Cancellation Charges not added in Booking details also.  \n\nExpected : I need cancellation protection charges to add in Booking details though i get refund when i cancel the ticket. ",
+        "customfield_10010": null,
+        "customfield_10014": null,
+        "customfield_10015": null,
+        "customfield_10005": null,
+        "customfield_10006": null,
+        "customfield_10007": null,
+        "security": null,
+        "customfield_10008": null,
+        "aggregatetimeestimate": null,
+        "customfield_10009": null,
+        "summary": "Release 01 Build 05: Unable to add Cancellation protection charges",
+        "creator": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/user?accountId=5e27d7a80fa3a90c9eb69c8c",
+          "accountId": "5e27d7a80fa3a90c9eb69c8c",
+          "emailAddress": "dineshdina59@gmail.com",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=32&s=32"
+          },
+          "displayName": "D_ ina",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [
+        ],
+        "reporter": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/user?accountId=5e27d7a80fa3a90c9eb69c8c",
+          "accountId": "5e27d7a80fa3a90c9eb69c8c",
+          "emailAddress": "dineshdina59@gmail.com",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=32&s=32"
+          },
+          "displayName": "D_ ina",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "customfield_10000": "{}",
+        "aggregateprogress": {
+          "progress": 0,
+          "total": 0
+        },
+        "customfield_10001": null,
+        "customfield_10002": null,
+        "customfield_10003": null,
+        "customfield_10004": null,
+        "environment": null,
+        "duedate": null,
+        "progress": {
+          "progress": 0,
+          "total": 0
+        },
+        "votes": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issue/DEM-5/votes",
+          "votes": 0,
+          "hasVoted": false
+        }
+      }
+    },
+    {
+      "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+      "id": "10003",
+      "self": "https://flygbra.atlassian.net/rest/api/2/issue/10003",
+      "key": "DEM-4",
+      "fields": {
+        "statuscategorychangedate": "2020-01-22T13:32:09.348+0530",
+        "issuetype": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issuetype/10005",
+          "id": "10005",
+          "description": "A problem or error.",
+          "iconUrl": "https://flygbra.atlassian.net/secure/viewavatar?size=medium&avatarId=10303&avatarType=issuetype",
+          "name": "Bug",
+          "subtask": false,
+          "avatarId": 10303
+        },
+        "timespent": null,
+        "project": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/project/10001",
+          "id": "10001",
+          "key": "DEM",
+          "name": "DemoBug",
+          "projectTypeKey": "software",
+          "simplified": false,
+          "avatarUrls": {
+            "48x48": "https://flygbra.atlassian.net/secure/projectavatar?pid=10001&avatarId=10417",
+            "24x24": "https://flygbra.atlassian.net/secure/projectavatar?size=small&s=small&pid=10001&avatarId=10417",
+            "16x16": "https://flygbra.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&pid=10001&avatarId=10417",
+            "32x32": "https://flygbra.atlassian.net/secure/projectavatar?size=medium&s=medium&pid=10001&avatarId=10417"
+          }
+        },
+        "fixVersions": [
+        ],
+        "aggregatetimespent": null,
+        "resolution": null,
+        "resolutiondate": null,
+        "workratio": -1,
+        "watches": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issue/DEM-4/watchers",
+          "watchCount": 1,
+          "isWatching": true
+        },
+        "lastViewed": "2020-02-20T20:41:46.144+0530",
+        "created": "2020-01-22T13:32:09.011+0530",
+        "customfield_10020": null,
+        "customfield_10021": null,
+        "customfield_10022": null,
+        "priority": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/priority/1",
+          "iconUrl": "https://flygbra.atlassian.net/images/icons/priorities/highest.svg",
+          "name": "Highest",
+          "id": "1"
+        },
+        "customfield_10023": null,
+        "labels": [
+          "Automation"
+        ],
+        "customfield_10016": null,
+        "customfield_10017": null,
+        "customfield_10018": {
+          "hasEpicLinkFieldDependency": false,
+          "showField": false,
+          "nonEditableReason": {
+            "reason": "PLUGIN_LICENSE_ERROR",
+            "message": "The Parent Link is only available to Jira Premium users."
+          }
+        },
+        "customfield_10019": "0|i0000n:",
+        "aggregatetimeoriginalestimate": null,
+        "timeestimate": null,
+        "versions": [
+        ],
+        "issuelinks": [
+        ],
+        "assignee": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/user?accountId=5e27d7a80fa3a90c9eb69c8c",
+          "accountId": "5e27d7a80fa3a90c9eb69c8c",
+          "emailAddress": "dineshdina59@gmail.com",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=32&s=32"
+          },
+          "displayName": "D_ ina",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "updated": "2020-01-22T13:32:09.011+0530",
+        "status": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/status/10000",
+          "description": "",
+          "iconUrl": "https://flygbra.atlassian.net/",
+          "name": "To Do",
+          "id": "10000",
+          "statusCategory": {
+            "self": "https://flygbra.atlassian.net/rest/api/2/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        },
+        "components": [
+        ],
+        "timeoriginalestimate": null,
+        "description": "Hi,\r\n\r\nUnable to select the one way trip option only for these source :LYON and destination :Goteborg/Landvetter.\r\n\r\nSteps for Reproduce :\r\n1. Login to https://flygbra.se/\r\n2. click Book a fight tab\r\n3. Enter the source as LYON and destination as Goteborg/Landvetter.\r\n\r\nIssue : Unable to select ONEWAY trip the Option not clickable  when i choose the above mentioned source and destination.so i cant move to further option for booking\r\n\r\nExpected :Need the option as clickable",
+        "customfield_10010": null,
+        "customfield_10014": null,
+        "customfield_10015": null,
+        "customfield_10005": null,
+        "customfield_10006": null,
+        "security": null,
+        "customfield_10007": null,
+        "customfield_10008": null,
+        "aggregatetimeestimate": null,
+        "customfield_10009": null,
+        "summary": "Release 04 Build 01: Unable to select the ONEWAY  trip option for specified source and destination",
+        "creator": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/user?accountId=5e27d7a80fa3a90c9eb69c8c",
+          "accountId": "5e27d7a80fa3a90c9eb69c8c",
+          "emailAddress": "dineshdina59@gmail.com",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=32&s=32"
+          },
+          "displayName": "D_ ina",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [
+        ],
+        "reporter": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/user?accountId=5e27d7a80fa3a90c9eb69c8c",
+          "accountId": "5e27d7a80fa3a90c9eb69c8c",
+          "emailAddress": "dineshdina59@gmail.com",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=32&s=32"
+          },
+          "displayName": "D_ ina",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+          "progress": 0,
+          "total": 0
+        },
+        "customfield_10000": "{}",
+        "customfield_10001": null,
+        "customfield_10002": null,
+        "customfield_10003": null,
+        "customfield_10004": null,
+        "environment": null,
+        "duedate": null,
+        "progress": {
+          "progress": 0,
+          "total": 0
+        },
+        "votes": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issue/DEM-4/votes",
+          "votes": 0,
+          "hasVoted": false
+        }
+      }
+    },
+    {
+      "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+      "id": "10002",
+      "self": "https://flygbra.atlassian.net/rest/api/2/issue/10002",
+      "key": "DEM-3",
+      "fields": {
+        "statuscategorychangedate": "2020-01-22T13:11:51.393+0530",
+        "issuetype": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issuetype/10005",
+          "id": "10005",
+          "description": "A problem or error.",
+          "iconUrl": "https://flygbra.atlassian.net/secure/viewavatar?size=medium&avatarId=10303&avatarType=issuetype",
+          "name": "Bug",
+          "subtask": false,
+          "avatarId": 10303
+        },
+        "timespent": null,
+        "project": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/project/10001",
+          "id": "10001",
+          "key": "DEM",
+          "name": "DemoBug",
+          "projectTypeKey": "software",
+          "simplified": false,
+          "avatarUrls": {
+            "48x48": "https://flygbra.atlassian.net/secure/projectavatar?pid=10001&avatarId=10417",
+            "24x24": "https://flygbra.atlassian.net/secure/projectavatar?size=small&s=small&pid=10001&avatarId=10417",
+            "16x16": "https://flygbra.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&pid=10001&avatarId=10417",
+            "32x32": "https://flygbra.atlassian.net/secure/projectavatar?size=medium&s=medium&pid=10001&avatarId=10417"
+          }
+        },
+        "fixVersions": [
+        ],
+        "aggregatetimespent": null,
+        "resolution": null,
+        "resolutiondate": null,
+        "workratio": -1,
+        "watches": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issue/DEM-3/watchers",
+          "watchCount": 1,
+          "isWatching": true
+        },
+        "lastViewed": null,
+        "created": "2020-01-22T13:11:51.240+0530",
+        "customfield_10020": null,
+        "customfield_10021": null,
+        "customfield_10022": null,
+        "priority": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/priority/3",
+          "iconUrl": "https://flygbra.atlassian.net/images/icons/priorities/medium.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "customfield_10023": null,
+        "labels": [
+          "Automation"
+        ],
+        "customfield_10016": null,
+        "customfield_10017": null,
+        "customfield_10018": {
+          "hasEpicLinkFieldDependency": false,
+          "showField": false,
+          "nonEditableReason": {
+            "reason": "PLUGIN_LICENSE_ERROR",
+            "message": "The Parent Link is only available to Jira Premium users."
+          }
+        },
+        "customfield_10019": "0|i0000f:",
+        "timeestimate": null,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [
+        ],
+        "issuelinks": [
+        ],
+        "assignee": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/user?accountId=5e27d7a80fa3a90c9eb69c8c",
+          "accountId": "5e27d7a80fa3a90c9eb69c8c",
+          "emailAddress": "dineshdina59@gmail.com",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=32&s=32"
+          },
+          "displayName": "D_ ina",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "updated": "2020-01-23T02:19:08.881+0530",
+        "status": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/status/10000",
+          "description": "",
+          "iconUrl": "https://flygbra.atlassian.net/",
+          "name": "To Do",
+          "id": "10000",
+          "statusCategory": {
+            "self": "https://flygbra.atlassian.net/rest/api/2/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        },
+        "components": [
+        ],
+        "timeoriginalestimate": null,
+        "description": "Hi\n\nUnable to view  Book details  when click Booking details link in Travelers Page.\n\nSteps for Reproduce :\n1. Login to [https://flygbra.se/|https://flygbra.se/]\n2. click Book a fight tab\n3. enter the source as Halmstad and destination as Riga\n4.Select the trip type as One way trip ,Travel date : 24- jan-2020 ,Ticket Type :Student and Passenger: 01.Click Search Travel.\n5.select flight 06:35 HALMSTAD(HAD) - RIGA(RIX) ,Good Fast class and then click continue\n\nIssue :Unable to click/view Booking details which presented in Right corner of Travelers Page .\n\nExpected : should able to click and view the book details .",
+        "customfield_10010": null,
+        "customfield_10014": null,
+        "customfield_10015": null,
+        "customfield_10005": null,
+        "customfield_10006": null,
+        "security": null,
+        "customfield_10007": null,
+        "customfield_10008": null,
+        "customfield_10009": null,
+        "aggregatetimeestimate": null,
+        "summary": "Release 03 Build 01: Unable to View Booking details link presented in Travelers Page.",
+        "creator": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/user?accountId=5e27d7a80fa3a90c9eb69c8c",
+          "accountId": "5e27d7a80fa3a90c9eb69c8c",
+          "emailAddress": "dineshdina59@gmail.com",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=32&s=32"
+          },
+          "displayName": "D_ ina",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [
+        ],
+        "reporter": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/user?accountId=5e27d7a80fa3a90c9eb69c8c",
+          "accountId": "5e27d7a80fa3a90c9eb69c8c",
+          "emailAddress": "dineshdina59@gmail.com",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=32&s=32"
+          },
+          "displayName": "D_ ina",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+          "progress": 0,
+          "total": 0
+        },
+        "customfield_10000": "{}",
+        "customfield_10001": null,
+        "customfield_10002": null,
+        "customfield_10003": null,
+        "customfield_10004": null,
+        "environment": null,
+        "duedate": null,
+        "progress": {
+          "progress": 0,
+          "total": 0
+        },
+        "votes": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issue/DEM-3/votes",
+          "votes": 0,
+          "hasVoted": false
+        }
+      }
+    },
+    {
+      "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+      "id": "10001",
+      "self": "https://flygbra.atlassian.net/rest/api/2/issue/10001",
+      "key": "DEM-2",
+      "fields": {
+        "statuscategorychangedate": "2020-01-22T12:17:14.339+0530",
+        "issuetype": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issuetype/10005",
+          "id": "10005",
+          "description": "A problem or error.",
+          "iconUrl": "https://flygbra.atlassian.net/secure/viewavatar?size=medium&avatarId=10303&avatarType=issuetype",
+          "name": "Bug",
+          "subtask": false,
+          "avatarId": 10303
+        },
+        "timespent": null,
+        "project": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/project/10001",
+          "id": "10001",
+          "key": "DEM",
+          "name": "DemoBug",
+          "projectTypeKey": "software",
+          "simplified": false,
+          "avatarUrls": {
+            "48x48": "https://flygbra.atlassian.net/secure/projectavatar?pid=10001&avatarId=10417",
+            "24x24": "https://flygbra.atlassian.net/secure/projectavatar?size=small&s=small&pid=10001&avatarId=10417",
+            "16x16": "https://flygbra.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&pid=10001&avatarId=10417",
+            "32x32": "https://flygbra.atlassian.net/secure/projectavatar?size=medium&s=medium&pid=10001&avatarId=10417"
+          }
+        },
+        "fixVersions": [
+        ],
+        "aggregatetimespent": null,
+        "resolution": null,
+        "resolutiondate": null,
+        "workratio": -1,
+        "watches": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issue/DEM-2/watchers",
+          "watchCount": 1,
+          "isWatching": true
+        },
+        "lastViewed": null,
+        "created": "2020-01-22T12:17:14.055+0530",
+        "customfield_10020": null,
+        "customfield_10021": null,
+        "customfield_10022": null,
+        "priority": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/priority/5",
+          "iconUrl": "https://flygbra.atlassian.net/images/icons/priorities/lowest.svg",
+          "name": "Lowest",
+          "id": "5"
+        },
+        "customfield_10023": null,
+        "labels": [
+          "Automation"
+        ],
+        "customfield_10016": null,
+        "customfield_10017": null,
+        "customfield_10018": {
+          "hasEpicLinkFieldDependency": false,
+          "showField": false,
+          "nonEditableReason": {
+            "reason": "PLUGIN_LICENSE_ERROR",
+            "message": "The Parent Link is only available to Jira Premium users."
+          }
+        },
+        "customfield_10019": "0|i00007:",
+        "timeestimate": null,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [
+        ],
+        "issuelinks": [
+        ],
+        "assignee": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/user?accountId=5e27d7a80fa3a90c9eb69c8c",
+          "accountId": "5e27d7a80fa3a90c9eb69c8c",
+          "emailAddress": "dineshdina59@gmail.com",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=32&s=32"
+          },
+          "displayName": "D_ ina",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "updated": "2020-01-22T12:17:14.055+0530",
+        "status": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/status/10000",
+          "description": "",
+          "iconUrl": "https://flygbra.atlassian.net/",
+          "name": "To Do",
+          "id": "10000",
+          "statusCategory": {
+            "self": "https://flygbra.atlassian.net/rest/api/2/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        },
+        "components": [
+        ],
+        "timeoriginalestimate": null,
+        "description": "Hi,\r\n\r\nI can able to select the past date in Travel calendar.\r\n\r\nSteps for Reproduce :\r\n1. Login to https://flygbra.se/\r\n2. click Book a fight tab\r\n3. Enter the source as Halmstad and destination as oslo/Torp\r\n4.Select the trip type as One way trip \r\n\r\nIssues : I can able to select the past date (Yesterday date:21-jan-2020)  Travel date calendar.\r\n\r\nExpected : Past date should not visible . I should freeze when date is crossed.\r\n",
+        "customfield_10010": null,
+        "customfield_10014": null,
+        "customfield_10015": null,
+        "customfield_10005": null,
+        "customfield_10006": null,
+        "customfield_10007": null,
+        "security": null,
+        "customfield_10008": null,
+        "aggregatetimeestimate": null,
+        "customfield_10009": null,
+        "summary": "Release 02 Build 01: Past Travel date is visible in Travel date calendar.",
+        "creator": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/user?accountId=5e27d7a80fa3a90c9eb69c8c",
+          "accountId": "5e27d7a80fa3a90c9eb69c8c",
+          "emailAddress": "dineshdina59@gmail.com",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=32&s=32"
+          },
+          "displayName": "D_ ina",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [
+        ],
+        "reporter": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/user?accountId=5e27d7a80fa3a90c9eb69c8c",
+          "accountId": "5e27d7a80fa3a90c9eb69c8c",
+          "emailAddress": "dineshdina59@gmail.com",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=32&s=32"
+          },
+          "displayName": "D_ ina",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+          "progress": 0,
+          "total": 0
+        },
+        "customfield_10000": "{}",
+        "customfield_10001": null,
+        "customfield_10002": null,
+        "customfield_10003": null,
+        "customfield_10004": null,
+        "environment": null,
+        "duedate": null,
+        "progress": {
+          "progress": 0,
+          "total": 0
+        },
+        "votes": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issue/DEM-2/votes",
+          "votes": 0,
+          "hasVoted": false
+        }
+      }
+    },
+    {
+      "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+      "id": "10000",
+      "self": "https://flygbra.atlassian.net/rest/api/2/issue/10000",
+      "key": "DEM-1",
+      "fields": {
+        "statuscategorychangedate": "2020-01-22T11:54:02.660+0530",
+        "issuetype": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issuetype/10005",
+          "id": "10005",
+          "description": "A problem or error.",
+          "iconUrl": "https://flygbra.atlassian.net/secure/viewavatar?size=medium&avatarId=10303&avatarType=issuetype",
+          "name": "Bug",
+          "subtask": false,
+          "avatarId": 10303
+        },
+        "timespent": null,
+        "project": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/project/10001",
+          "id": "10001",
+          "key": "DEM",
+          "name": "DemoBug",
+          "projectTypeKey": "software",
+          "simplified": false,
+          "avatarUrls": {
+            "48x48": "https://flygbra.atlassian.net/secure/projectavatar?pid=10001&avatarId=10417",
+            "24x24": "https://flygbra.atlassian.net/secure/projectavatar?size=small&s=small&pid=10001&avatarId=10417",
+            "16x16": "https://flygbra.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&pid=10001&avatarId=10417",
+            "32x32": "https://flygbra.atlassian.net/secure/projectavatar?size=medium&s=medium&pid=10001&avatarId=10417"
+          }
+        },
+        "fixVersions": [
+        ],
+        "aggregatetimespent": null,
+        "resolution": null,
+        "resolutiondate": null,
+        "workratio": -1,
+        "lastViewed": null,
+        "watches": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issue/DEM-1/watchers",
+          "watchCount": 1,
+          "isWatching": true
+        },
+        "created": "2020-01-22T11:54:01.762+0530",
+        "customfield_10020": null,
+        "customfield_10021": null,
+        "customfield_10022": null,
+        "customfield_10023": null,
+        "priority": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/priority/3",
+          "iconUrl": "https://flygbra.atlassian.net/images/icons/priorities/medium.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "labels": [
+          "Automation"
+        ],
+        "customfield_10016": null,
+        "customfield_10017": null,
+        "customfield_10018": {
+          "hasEpicLinkFieldDependency": false,
+          "showField": false,
+          "nonEditableReason": {
+            "reason": "PLUGIN_LICENSE_ERROR",
+            "message": "The Parent Link is only available to Jira Premium users."
+          }
+        },
+        "customfield_10019": "0|hzzzzz:",
+        "aggregatetimeoriginalestimate": null,
+        "timeestimate": null,
+        "versions": [
+        ],
+        "issuelinks": [
+        ],
+        "assignee": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/user?accountId=5e27d7a80fa3a90c9eb69c8c",
+          "accountId": "5e27d7a80fa3a90c9eb69c8c",
+          "emailAddress": "dineshdina59@gmail.com",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=32&s=32"
+          },
+          "displayName": "D_ ina",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "updated": "2020-01-22T11:54:01.762+0530",
+        "status": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/status/10000",
+          "description": "",
+          "iconUrl": "https://flygbra.atlassian.net/",
+          "name": "To Do",
+          "id": "10000",
+          "statusCategory": {
+            "self": "https://flygbra.atlassian.net/rest/api/2/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        },
+        "components": [
+        ],
+        "timeoriginalestimate": null,
+        "description": "Hi,\r\n\r\nUnable to tick the check the box for Remember my info for the next visit which present below contact information.\r\n\r\nSteps for Reproduce :\r\n1. Login to https://flygbra.se/\r\n2. click Book a fight tab\r\n3. enter the source as Halmstad and destination as Riga\r\n4.Select the trip type as One way trip ,Travel date : 24- jan-2020 ,Ticket Type :Student and Passenger: 01.Click Search Travel.\r\n5.select flight 06:35 HALMSTAD(HAD) - RIGA(RIX) ,Good Fast class and then click continue\r\n6.In Next-Page : Fill the student information and contact information .\r\n\r\nIssues :  cant able to tick the check box \"Remember my info for the next visit\" which present below in contact information.\r\n\r\nExpected : check box (\"Remember my info for the next visit\") to be ticked when select .whereas i save my contact information in my login and reuse again \r\n\r\n ",
+        "customfield_10010": null,
+        "customfield_10014": null,
+        "customfield_10015": null,
+        "customfield_10005": null,
+        "customfield_10006": null,
+        "security": null,
+        "customfield_10007": null,
+        "customfield_10008": null,
+        "customfield_10009": null,
+        "aggregatetimeestimate": null,
+        "summary": "Release 01 Build 01: unable to tick the checkbox \"Remember my info for the next visit\"",
+        "creator": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/user?accountId=5e27d7a80fa3a90c9eb69c8c",
+          "accountId": "5e27d7a80fa3a90c9eb69c8c",
+          "emailAddress": "dineshdina59@gmail.com",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=32&s=32"
+          },
+          "displayName": "D_ ina",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [
+        ],
+        "reporter": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/user?accountId=5e27d7a80fa3a90c9eb69c8c",
+          "accountId": "5e27d7a80fa3a90c9eb69c8c",
+          "emailAddress": "dineshdina59@gmail.com",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=32&s=32"
+          },
+          "displayName": "D_ ina",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+          "progress": 0,
+          "total": 0
+        },
+        "customfield_10000": "{}",
+        "customfield_10001": null,
+        "customfield_10002": null,
+        "customfield_10003": null,
+        "customfield_10004": null,
+        "environment": null,
+        "duedate": null,
+        "progress": {
+          "progress": 0,
+          "total": 0
+        },
+        "votes": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issue/DEM-1/votes",
+          "votes": 0,
+          "hasVoted": false
+        }
+      }
+    },
+    {
+      "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+      "id": "10019",
+      "self": "https://flygbra.atlassian.net/rest/api/2/issue/10019",
+      "key": "AG-12",
+      "fields": {
+        "statuscategorychangedate": "2020-01-27T14:27:45.015+0530",
+        "issuetype": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issuetype/10006",
+          "id": "10006",
+          "description": "Stories track functionality or features expressed as user goals.",
+          "iconUrl": "https://flygbra.atlassian.net/images/icons/issuetypes/story.svg",
+          "name": "Story",
+          "subtask": false
+        },
+        "timespent": null,
+        "project": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/project/10002",
+          "id": "10002",
+          "key": "AG",
+          "name": "Agile",
+          "projectTypeKey": "software",
+          "simplified": false,
+          "avatarUrls": {
+            "48x48": "https://flygbra.atlassian.net/secure/projectavatar?pid=10002&avatarId=10412",
+            "24x24": "https://flygbra.atlassian.net/secure/projectavatar?size=small&s=small&pid=10002&avatarId=10412",
+            "16x16": "https://flygbra.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&pid=10002&avatarId=10412",
+            "32x32": "https://flygbra.atlassian.net/secure/projectavatar?size=medium&s=medium&pid=10002&avatarId=10412"
+          }
+        },
+        "fixVersions": [
+        ],
+        "aggregatetimespent": null,
+        "resolution": null,
+        "resolutiondate": null,
+        "workratio": -1,
+        "watches": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issue/AG-12/watchers",
+          "watchCount": 1,
+          "isWatching": true
+        },
+        "lastViewed": "2020-03-08T14:01:13.543+0530",
+        "created": "2020-01-27T14:27:44.831+0530",
+        "customfield_10020": null,
+        "customfield_10021": null,
+        "customfield_10022": null,
+        "customfield_10023": null,
+        "priority": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/priority/3",
+          "iconUrl": "https://flygbra.atlassian.net/images/icons/priorities/medium.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "customfield_10026": null,
+        "labels": [
+        ],
+        "customfield_10016": null,
+        "customfield_10017": null,
+        "customfield_10018": {
+          "hasEpicLinkFieldDependency": false,
+          "showField": false,
+          "nonEditableReason": {
+            "reason": "PLUGIN_LICENSE_ERROR",
+            "message": "The Parent Link is only available to Jira Premium users."
+          }
+        },
+        "customfield_10019": "0|i00047:",
+        "timeestimate": null,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [
+        ],
+        "issuelinks": [
+        ],
+        "assignee": null,
+        "updated": "2020-01-27T14:27:44.831+0530",
+        "status": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/status/10000",
+          "description": "",
+          "iconUrl": "https://flygbra.atlassian.net/",
+          "name": "To Do",
+          "id": "10000",
+          "statusCategory": {
+            "self": "https://flygbra.atlassian.net/rest/api/2/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        },
+        "components": [
+        ],
+        "timeoriginalestimate": null,
+        "description": null,
+        "customfield_10010": null,
+        "customfield_10014": null,
+        "customfield_10015": null,
+        "customfield_10005": null,
+        "customfield_10006": null,
+        "customfield_10007": null,
+        "security": null,
+        "customfield_10008": null,
+        "customfield_10009": null,
+        "aggregatetimeestimate": null,
+        "summary": "As a user i want to add Recharge Button so that customer can confirm his recharge",
+        "creator": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/user?accountId=5e27d7a80fa3a90c9eb69c8c",
+          "accountId": "5e27d7a80fa3a90c9eb69c8c",
+          "emailAddress": "dineshdina59@gmail.com",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=32&s=32"
+          },
+          "displayName": "D_ ina",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [
+        ],
+        "reporter": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/user?accountId=5e27d7a80fa3a90c9eb69c8c",
+          "accountId": "5e27d7a80fa3a90c9eb69c8c",
+          "emailAddress": "dineshdina59@gmail.com",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=32&s=32"
+          },
+          "displayName": "D_ ina",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "customfield_10000": "{}",
+        "aggregateprogress": {
+          "progress": 0,
+          "total": 0
+        },
+        "customfield_10001": null,
+        "customfield_10002": null,
+        "customfield_10003": null,
+        "customfield_10004": null,
+        "environment": null,
+        "duedate": null,
+        "progress": {
+          "progress": 0,
+          "total": 0
+        },
+        "votes": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issue/AG-12/votes",
+          "votes": 0,
+          "hasVoted": false
+        }
+      }
+    },
+    {
+      "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+      "id": "10018",
+      "self": "https://flygbra.atlassian.net/rest/api/2/issue/10018",
+      "key": "AG-11",
+      "fields": {
+        "statuscategorychangedate": "2020-01-27T14:24:18.390+0530",
+        "issuetype": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issuetype/10006",
+          "id": "10006",
+          "description": "Stories track functionality or features expressed as user goals.",
+          "iconUrl": "https://flygbra.atlassian.net/images/icons/issuetypes/story.svg",
+          "name": "Story",
+          "subtask": false
+        },
+        "timespent": null,
+        "project": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/project/10002",
+          "id": "10002",
+          "key": "AG",
+          "name": "Agile",
+          "projectTypeKey": "software",
+          "simplified": false,
+          "avatarUrls": {
+            "48x48": "https://flygbra.atlassian.net/secure/projectavatar?pid=10002&avatarId=10412",
+            "24x24": "https://flygbra.atlassian.net/secure/projectavatar?size=small&s=small&pid=10002&avatarId=10412",
+            "16x16": "https://flygbra.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&pid=10002&avatarId=10412",
+            "32x32": "https://flygbra.atlassian.net/secure/projectavatar?size=medium&s=medium&pid=10002&avatarId=10412"
+          }
+        },
+        "fixVersions": [
+        ],
+        "aggregatetimespent": null,
+        "resolution": null,
+        "resolutiondate": null,
+        "workratio": -1,
+        "watches": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issue/AG-11/watchers",
+          "watchCount": 1,
+          "isWatching": true
+        },
+        "lastViewed": "2020-01-27T14:24:27.210+0530",
+        "created": "2020-01-27T14:24:18.282+0530",
+        "customfield_10020": null,
+        "customfield_10021": null,
+        "customfield_10022": null,
+        "customfield_10023": null,
+        "priority": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/priority/3",
+          "iconUrl": "https://flygbra.atlassian.net/images/icons/priorities/medium.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "labels": [
+        ],
+        "customfield_10026": null,
+        "customfield_10016": null,
+        "customfield_10017": null,
+        "customfield_10018": {
+          "hasEpicLinkFieldDependency": false,
+          "showField": false,
+          "nonEditableReason": {
+            "reason": "PLUGIN_LICENSE_ERROR",
+            "message": "The Parent Link is only available to Jira Premium users."
+          }
+        },
+        "customfield_10019": "0|i0003z:",
+        "timeestimate": null,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [
+        ],
+        "issuelinks": [
+        ],
+        "assignee": null,
+        "updated": "2020-01-27T14:24:18.282+0530",
+        "status": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/status/10000",
+          "description": "",
+          "iconUrl": "https://flygbra.atlassian.net/",
+          "name": "To Do",
+          "id": "10000",
+          "statusCategory": {
+            "self": "https://flygbra.atlassian.net/rest/api/2/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        },
+        "components": [
+        ],
+        "timeoriginalestimate": null,
+        "description": null,
+        "customfield_10010": null,
+        "customfield_10014": null,
+        "customfield_10015": null,
+        "customfield_10005": null,
+        "customfield_10006": null,
+        "security": null,
+        "customfield_10007": null,
+        "customfield_10008": null,
+        "aggregatetimeestimate": null,
+        "customfield_10009": null,
+        "summary": "As a user i want to add Drop Down box to select the operator to recharge",
+        "creator": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/user?accountId=5e27d7a80fa3a90c9eb69c8c",
+          "accountId": "5e27d7a80fa3a90c9eb69c8c",
+          "emailAddress": "dineshdina59@gmail.com",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=32&s=32"
+          },
+          "displayName": "D_ ina",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [
+        ],
+        "reporter": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/user?accountId=5e27d7a80fa3a90c9eb69c8c",
+          "accountId": "5e27d7a80fa3a90c9eb69c8c",
+          "emailAddress": "dineshdina59@gmail.com",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=32&s=32"
+          },
+          "displayName": "D_ ina",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+          "progress": 0,
+          "total": 0
+        },
+        "customfield_10000": "{}",
+        "customfield_10001": null,
+        "customfield_10002": null,
+        "customfield_10003": null,
+        "customfield_10004": null,
+        "environment": null,
+        "duedate": null,
+        "progress": {
+          "progress": 0,
+          "total": 0
+        },
+        "votes": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issue/AG-11/votes",
+          "votes": 0,
+          "hasVoted": false
+        }
+      }
+    },
+    {
+      "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+      "id": "10017",
+      "self": "https://flygbra.atlassian.net/rest/api/2/issue/10017",
+      "key": "AG-10",
+      "fields": {
+        "statuscategorychangedate": "2020-01-27T14:22:27.474+0530",
+        "issuetype": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issuetype/10006",
+          "id": "10006",
+          "description": "Stories track functionality or features expressed as user goals.",
+          "iconUrl": "https://flygbra.atlassian.net/images/icons/issuetypes/story.svg",
+          "name": "Story",
+          "subtask": false
+        },
+        "timespent": null,
+        "project": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/project/10002",
+          "id": "10002",
+          "key": "AG",
+          "name": "Agile",
+          "projectTypeKey": "software",
+          "simplified": false,
+          "avatarUrls": {
+            "48x48": "https://flygbra.atlassian.net/secure/projectavatar?pid=10002&avatarId=10412",
+            "24x24": "https://flygbra.atlassian.net/secure/projectavatar?size=small&s=small&pid=10002&avatarId=10412",
+            "16x16": "https://flygbra.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&pid=10002&avatarId=10412",
+            "32x32": "https://flygbra.atlassian.net/secure/projectavatar?size=medium&s=medium&pid=10002&avatarId=10412"
+          }
+        },
+        "fixVersions": [
+        ],
+        "aggregatetimespent": null,
+        "resolution": null,
+        "resolutiondate": null,
+        "workratio": -1,
+        "lastViewed": "2020-01-27T14:24:43.341+0530",
+        "watches": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issue/AG-10/watchers",
+          "watchCount": 1,
+          "isWatching": true
+        },
+        "created": "2020-01-27T14:22:27.284+0530",
+        "customfield_10020": null,
+        "customfield_10021": null,
+        "customfield_10022": null,
+        "priority": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/priority/3",
+          "iconUrl": "https://flygbra.atlassian.net/images/icons/priorities/medium.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "customfield_10023": null,
+        "customfield_10026": null,
+        "labels": [
+        ],
+        "customfield_10016": null,
+        "customfield_10017": null,
+        "customfield_10018": {
+          "hasEpicLinkFieldDependency": false,
+          "showField": false,
+          "nonEditableReason": {
+            "reason": "PLUGIN_LICENSE_ERROR",
+            "message": "The Parent Link is only available to Jira Premium users."
+          }
+        },
+        "customfield_10019": "0|i0003r:",
+        "timeestimate": null,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [
+        ],
+        "issuelinks": [
+        ],
+        "assignee": null,
+        "updated": "2020-01-27T14:22:27.284+0530",
+        "status": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/status/10000",
+          "description": "",
+          "iconUrl": "https://flygbra.atlassian.net/",
+          "name": "To Do",
+          "id": "10000",
+          "statusCategory": {
+            "self": "https://flygbra.atlassian.net/rest/api/2/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        },
+        "components": [
+        ],
+        "timeoriginalestimate": null,
+        "description": null,
+        "customfield_10010": null,
+        "customfield_10014": null,
+        "customfield_10015": null,
+        "customfield_10005": null,
+        "customfield_10006": null,
+        "customfield_10007": null,
+        "security": null,
+        "customfield_10008": null,
+        "aggregatetimeestimate": null,
+        "customfield_10009": null,
+        "summary": "As a User i want to add mobile number text box so that customer will enter the mob number for recharge",
+        "creator": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/user?accountId=5e27d7a80fa3a90c9eb69c8c",
+          "accountId": "5e27d7a80fa3a90c9eb69c8c",
+          "emailAddress": "dineshdina59@gmail.com",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=32&s=32"
+          },
+          "displayName": "D_ ina",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [
+        ],
+        "reporter": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/user?accountId=5e27d7a80fa3a90c9eb69c8c",
+          "accountId": "5e27d7a80fa3a90c9eb69c8c",
+          "emailAddress": "dineshdina59@gmail.com",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=32&s=32"
+          },
+          "displayName": "D_ ina",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+          "progress": 0,
+          "total": 0
+        },
+        "customfield_10000": "{}",
+        "customfield_10001": null,
+        "customfield_10002": null,
+        "customfield_10003": null,
+        "customfield_10004": null,
+        "environment": null,
+        "duedate": null,
+        "progress": {
+          "progress": 0,
+          "total": 0
+        },
+        "votes": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issue/AG-10/votes",
+          "votes": 0,
+          "hasVoted": false
+        }
+      }
+    },
+    {
+      "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+      "id": "10016",
+      "self": "https://flygbra.atlassian.net/rest/api/2/issue/10016",
+      "key": "AG-9",
+      "fields": {
+        "statuscategorychangedate": "2020-01-27T14:21:27.357+0530",
+        "issuetype": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issuetype/10006",
+          "id": "10006",
+          "description": "Stories track functionality or features expressed as user goals.",
+          "iconUrl": "https://flygbra.atlassian.net/images/icons/issuetypes/story.svg",
+          "name": "Story",
+          "subtask": false
+        },
+        "timespent": null,
+        "project": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/project/10002",
+          "id": "10002",
+          "key": "AG",
+          "name": "Agile",
+          "projectTypeKey": "software",
+          "simplified": false,
+          "avatarUrls": {
+            "48x48": "https://flygbra.atlassian.net/secure/projectavatar?pid=10002&avatarId=10412",
+            "24x24": "https://flygbra.atlassian.net/secure/projectavatar?size=small&s=small&pid=10002&avatarId=10412",
+            "16x16": "https://flygbra.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&pid=10002&avatarId=10412",
+            "32x32": "https://flygbra.atlassian.net/secure/projectavatar?size=medium&s=medium&pid=10002&avatarId=10412"
+          }
+        },
+        "fixVersions": [
+        ],
+        "aggregatetimespent": null,
+        "resolution": null,
+        "resolutiondate": null,
+        "workratio": -1,
+        "watches": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issue/AG-9/watchers",
+          "watchCount": 1,
+          "isWatching": true
+        },
+        "lastViewed": "2020-01-27T14:21:36.529+0530",
+        "created": "2020-01-27T14:21:27.176+0530",
+        "customfield_10020": null,
+        "customfield_10021": null,
+        "customfield_10022": null,
+        "priority": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/priority/3",
+          "iconUrl": "https://flygbra.atlassian.net/images/icons/priorities/medium.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "customfield_10023": null,
+        "labels": [
+        ],
+        "customfield_10026": null,
+        "customfield_10016": null,
+        "customfield_10017": null,
+        "customfield_10018": {
+          "hasEpicLinkFieldDependency": false,
+          "showField": false,
+          "nonEditableReason": {
+            "reason": "PLUGIN_LICENSE_ERROR",
+            "message": "The Parent Link is only available to Jira Premium users."
+          }
+        },
+        "customfield_10019": "0|i0003j:",
+        "timeestimate": null,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [
+        ],
+        "issuelinks": [
+        ],
+        "assignee": null,
+        "updated": "2020-01-27T14:21:27.176+0530",
+        "status": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/status/10000",
+          "description": "",
+          "iconUrl": "https://flygbra.atlassian.net/",
+          "name": "To Do",
+          "id": "10000",
+          "statusCategory": {
+            "self": "https://flygbra.atlassian.net/rest/api/2/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        },
+        "components": [
+        ],
+        "timeoriginalestimate": null,
+        "description": null,
+        "customfield_10010": null,
+        "customfield_10014": null,
+        "customfield_10015": null,
+        "customfield_10005": null,
+        "customfield_10006": null,
+        "security": null,
+        "customfield_10007": null,
+        "customfield_10008": null,
+        "aggregatetimeestimate": null,
+        "customfield_10009": null,
+        "summary": "As a User i want to add Recharge tab so that customer can recharge using NetBanking",
+        "creator": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/user?accountId=5e27d7a80fa3a90c9eb69c8c",
+          "accountId": "5e27d7a80fa3a90c9eb69c8c",
+          "emailAddress": "dineshdina59@gmail.com",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=32&s=32"
+          },
+          "displayName": "D_ ina",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [
+        ],
+        "reporter": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/user?accountId=5e27d7a80fa3a90c9eb69c8c",
+          "accountId": "5e27d7a80fa3a90c9eb69c8c",
+          "emailAddress": "dineshdina59@gmail.com",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=32&s=32"
+          },
+          "displayName": "D_ ina",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+          "progress": 0,
+          "total": 0
+        },
+        "customfield_10000": "{}",
+        "customfield_10001": null,
+        "customfield_10002": null,
+        "customfield_10003": null,
+        "customfield_10004": null,
+        "environment": null,
+        "duedate": null,
+        "progress": {
+          "progress": 0,
+          "total": 0
+        },
+        "votes": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issue/AG-9/votes",
+          "votes": 0,
+          "hasVoted": false
+        }
+      }
+    },
+    {
+      "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+      "id": "10015",
+      "self": "https://flygbra.atlassian.net/rest/api/2/issue/10015",
+      "key": "AG-8",
+      "fields": {
+        "statuscategorychangedate": "2020-01-27T14:20:20.425+0530",
+        "issuetype": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issuetype/10006",
+          "id": "10006",
+          "description": "Stories track functionality or features expressed as user goals.",
+          "iconUrl": "https://flygbra.atlassian.net/images/icons/issuetypes/story.svg",
+          "name": "Story",
+          "subtask": false
+        },
+        "timespent": null,
+        "project": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/project/10002",
+          "id": "10002",
+          "key": "AG",
+          "name": "Agile",
+          "projectTypeKey": "software",
+          "simplified": false,
+          "avatarUrls": {
+            "48x48": "https://flygbra.atlassian.net/secure/projectavatar?pid=10002&avatarId=10412",
+            "24x24": "https://flygbra.atlassian.net/secure/projectavatar?size=small&s=small&pid=10002&avatarId=10412",
+            "16x16": "https://flygbra.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&pid=10002&avatarId=10412",
+            "32x32": "https://flygbra.atlassian.net/secure/projectavatar?size=medium&s=medium&pid=10002&avatarId=10412"
+          }
+        },
+        "fixVersions": [
+        ],
+        "aggregatetimespent": null,
+        "resolution": null,
+        "resolutiondate": null,
+        "workratio": -1,
+        "watches": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issue/AG-8/watchers",
+          "watchCount": 1,
+          "isWatching": true
+        },
+        "lastViewed": "2020-01-27T14:20:27.727+0530",
+        "created": "2020-01-27T14:20:20.233+0530",
+        "customfield_10020": null,
+        "customfield_10021": null,
+        "customfield_10022": null,
+        "priority": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/priority/3",
+          "iconUrl": "https://flygbra.atlassian.net/images/icons/priorities/medium.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "customfield_10023": null,
+        "labels": [
+        ],
+        "customfield_10026": null,
+        "customfield_10016": null,
+        "customfield_10017": null,
+        "customfield_10018": {
+          "hasEpicLinkFieldDependency": false,
+          "showField": false,
+          "nonEditableReason": {
+            "reason": "PLUGIN_LICENSE_ERROR",
+            "message": "The Parent Link is only available to Jira Premium users."
+          }
+        },
+        "customfield_10019": "0|i0003b:",
+        "timeestimate": null,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [
+        ],
+        "issuelinks": [
+        ],
+        "assignee": null,
+        "updated": "2020-01-27T14:20:20.233+0530",
+        "status": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/status/10000",
+          "description": "",
+          "iconUrl": "https://flygbra.atlassian.net/",
+          "name": "To Do",
+          "id": "10000",
+          "statusCategory": {
+            "self": "https://flygbra.atlassian.net/rest/api/2/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        },
+        "components": [
+        ],
+        "timeoriginalestimate": null,
+        "description": null,
+        "customfield_10010": null,
+        "customfield_10014": null,
+        "customfield_10015": null,
+        "customfield_10005": null,
+        "customfield_10006": null,
+        "customfield_10007": null,
+        "security": null,
+        "customfield_10008": null,
+        "customfield_10009": null,
+        "aggregatetimeestimate": null,
+        "summary": "As a user i want to add radio button so that i can Transfer money within same Bank",
+        "creator": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/user?accountId=5e27d7a80fa3a90c9eb69c8c",
+          "accountId": "5e27d7a80fa3a90c9eb69c8c",
+          "emailAddress": "dineshdina59@gmail.com",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=32&s=32"
+          },
+          "displayName": "D_ ina",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [
+        ],
+        "reporter": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/user?accountId=5e27d7a80fa3a90c9eb69c8c",
+          "accountId": "5e27d7a80fa3a90c9eb69c8c",
+          "emailAddress": "dineshdina59@gmail.com",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=32&s=32"
+          },
+          "displayName": "D_ ina",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "customfield_10000": "{}",
+        "aggregateprogress": {
+          "progress": 0,
+          "total": 0
+        },
+        "customfield_10001": null,
+        "customfield_10002": null,
+        "customfield_10003": null,
+        "customfield_10004": null,
+        "environment": null,
+        "duedate": null,
+        "progress": {
+          "progress": 0,
+          "total": 0
+        },
+        "votes": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issue/AG-8/votes",
+          "votes": 0,
+          "hasVoted": false
+        }
+      }
+    },
+    {
+      "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+      "id": "10014",
+      "self": "https://flygbra.atlassian.net/rest/api/2/issue/10014",
+      "key": "AG-7",
+      "fields": {
+        "statuscategorychangedate": "2020-01-27T13:59:04.639+0530",
+        "issuetype": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issuetype/10006",
+          "id": "10006",
+          "description": "Stories track functionality or features expressed as user goals.",
+          "iconUrl": "https://flygbra.atlassian.net/images/icons/issuetypes/story.svg",
+          "name": "Story",
+          "subtask": false
+        },
+        "timespent": null,
+        "project": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/project/10002",
+          "id": "10002",
+          "key": "AG",
+          "name": "Agile",
+          "projectTypeKey": "software",
+          "simplified": false,
+          "avatarUrls": {
+            "48x48": "https://flygbra.atlassian.net/secure/projectavatar?pid=10002&avatarId=10412",
+            "24x24": "https://flygbra.atlassian.net/secure/projectavatar?size=small&s=small&pid=10002&avatarId=10412",
+            "16x16": "https://flygbra.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&pid=10002&avatarId=10412",
+            "32x32": "https://flygbra.atlassian.net/secure/projectavatar?size=medium&s=medium&pid=10002&avatarId=10412"
+          }
+        },
+        "fixVersions": [
+        ],
+        "aggregatetimespent": null,
+        "resolution": null,
+        "resolutiondate": null,
+        "workratio": -1,
+        "watches": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issue/AG-7/watchers",
+          "watchCount": 1,
+          "isWatching": true
+        },
+        "lastViewed": null,
+        "created": "2020-01-27T13:59:04.464+0530",
+        "customfield_10020": null,
+        "customfield_10021": null,
+        "customfield_10022": null,
+        "priority": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/priority/3",
+          "iconUrl": "https://flygbra.atlassian.net/images/icons/priorities/medium.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "customfield_10023": null,
+        "customfield_10026": null,
+        "labels": [
+        ],
+        "customfield_10016": null,
+        "customfield_10017": null,
+        "customfield_10018": {
+          "hasEpicLinkFieldDependency": false,
+          "showField": false,
+          "nonEditableReason": {
+            "reason": "PLUGIN_LICENSE_ERROR",
+            "message": "The Parent Link is only available to Jira Premium users."
+          }
+        },
+        "customfield_10019": "0|i00033:",
+        "timeestimate": null,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [
+        ],
+        "issuelinks": [
+        ],
+        "assignee": null,
+        "updated": "2020-01-27T13:59:04.464+0530",
+        "status": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/status/10000",
+          "description": "",
+          "iconUrl": "https://flygbra.atlassian.net/",
+          "name": "To Do",
+          "id": "10000",
+          "statusCategory": {
+            "self": "https://flygbra.atlassian.net/rest/api/2/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        },
+        "components": [
+        ],
+        "timeoriginalestimate": null,
+        "description": null,
+        "customfield_10010": null,
+        "customfield_10014": null,
+        "customfield_10015": null,
+        "customfield_10005": null,
+        "customfield_10006": null,
+        "customfield_10007": null,
+        "security": null,
+        "customfield_10008": null,
+        "aggregatetimeestimate": null,
+        "customfield_10009": null,
+        "summary": "As a User i want to add Back Button so that customer Go to previous tab.",
+        "creator": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/user?accountId=5e27d7a80fa3a90c9eb69c8c",
+          "accountId": "5e27d7a80fa3a90c9eb69c8c",
+          "emailAddress": "dineshdina59@gmail.com",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=32&s=32"
+          },
+          "displayName": "D_ ina",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [
+        ],
+        "reporter": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/user?accountId=5e27d7a80fa3a90c9eb69c8c",
+          "accountId": "5e27d7a80fa3a90c9eb69c8c",
+          "emailAddress": "dineshdina59@gmail.com",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=32&s=32"
+          },
+          "displayName": "D_ ina",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "customfield_10000": "{}",
+        "aggregateprogress": {
+          "progress": 0,
+          "total": 0
+        },
+        "customfield_10001": null,
+        "customfield_10002": null,
+        "customfield_10003": null,
+        "customfield_10004": null,
+        "environment": null,
+        "duedate": null,
+        "progress": {
+          "progress": 0,
+          "total": 0
+        },
+        "votes": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issue/AG-7/votes",
+          "votes": 0,
+          "hasVoted": false
+        }
+      }
+    },
+    {
+      "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+      "id": "10013",
+      "self": "https://flygbra.atlassian.net/rest/api/2/issue/10013",
+      "key": "AG-6",
+      "fields": {
+        "statuscategorychangedate": "2020-01-27T13:58:16.544+0530",
+        "issuetype": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issuetype/10006",
+          "id": "10006",
+          "description": "Stories track functionality or features expressed as user goals.",
+          "iconUrl": "https://flygbra.atlassian.net/images/icons/issuetypes/story.svg",
+          "name": "Story",
+          "subtask": false
+        },
+        "timespent": null,
+        "project": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/project/10002",
+          "id": "10002",
+          "key": "AG",
+          "name": "Agile",
+          "projectTypeKey": "software",
+          "simplified": false,
+          "avatarUrls": {
+            "48x48": "https://flygbra.atlassian.net/secure/projectavatar?pid=10002&avatarId=10412",
+            "24x24": "https://flygbra.atlassian.net/secure/projectavatar?size=small&s=small&pid=10002&avatarId=10412",
+            "16x16": "https://flygbra.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&pid=10002&avatarId=10412",
+            "32x32": "https://flygbra.atlassian.net/secure/projectavatar?size=medium&s=medium&pid=10002&avatarId=10412"
+          }
+        },
+        "fixVersions": [
+        ],
+        "aggregatetimespent": null,
+        "resolution": null,
+        "resolutiondate": null,
+        "workratio": -1,
+        "watches": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issue/AG-6/watchers",
+          "watchCount": 1,
+          "isWatching": true
+        },
+        "lastViewed": null,
+        "created": "2020-01-27T13:58:16.357+0530",
+        "customfield_10020": null,
+        "customfield_10021": null,
+        "customfield_10022": null,
+        "priority": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/priority/3",
+          "iconUrl": "https://flygbra.atlassian.net/images/icons/priorities/medium.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "customfield_10023": null,
+        "customfield_10026": null,
+        "labels": [
+        ],
+        "customfield_10016": null,
+        "customfield_10017": null,
+        "customfield_10018": {
+          "hasEpicLinkFieldDependency": false,
+          "showField": false,
+          "nonEditableReason": {
+            "reason": "PLUGIN_LICENSE_ERROR",
+            "message": "The Parent Link is only available to Jira Premium users."
+          }
+        },
+        "customfield_10019": "0|i0002v:",
+        "timeestimate": null,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [
+        ],
+        "issuelinks": [
+        ],
+        "assignee": null,
+        "updated": "2020-01-27T13:58:16.357+0530",
+        "status": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/status/10000",
+          "description": "",
+          "iconUrl": "https://flygbra.atlassian.net/",
+          "name": "To Do",
+          "id": "10000",
+          "statusCategory": {
+            "self": "https://flygbra.atlassian.net/rest/api/2/statuscategory/2",
+            "id": 2,
+            "key": "new",
+            "colorName": "blue-gray",
+            "name": "To Do"
+          }
+        },
+        "components": [
+        ],
+        "timeoriginalestimate": null,
+        "description": null,
+        "customfield_10010": null,
+        "customfield_10014": null,
+        "customfield_10015": null,
+        "customfield_10005": null,
+        "customfield_10006": null,
+        "security": null,
+        "customfield_10007": null,
+        "customfield_10008": null,
+        "customfield_10009": null,
+        "aggregatetimeestimate": null,
+        "summary": "As a User i want to add Confirm button so that customer can confirm its transfer.",
+        "creator": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/user?accountId=5e27d7a80fa3a90c9eb69c8c",
+          "accountId": "5e27d7a80fa3a90c9eb69c8c",
+          "emailAddress": "dineshdina59@gmail.com",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=32&s=32"
+          },
+          "displayName": "D_ ina",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [
+        ],
+        "reporter": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/user?accountId=5e27d7a80fa3a90c9eb69c8c",
+          "accountId": "5e27d7a80fa3a90c9eb69c8c",
+          "emailAddress": "dineshdina59@gmail.com",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=32&s=32"
+          },
+          "displayName": "D_ ina",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+          "progress": 0,
+          "total": 0
+        },
+        "customfield_10000": "{}",
+        "customfield_10001": null,
+        "customfield_10002": null,
+        "customfield_10003": null,
+        "customfield_10004": null,
+        "environment": null,
+        "duedate": null,
+        "progress": {
+          "progress": 0,
+          "total": 0
+        },
+        "votes": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issue/AG-6/votes",
+          "votes": 0,
+          "hasVoted": false
+        }
+      }
+    },
+    {
+      "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+      "id": "10012",
+      "self": "https://flygbra.atlassian.net/rest/api/2/issue/10012",
+      "key": "AG-5",
+      "fields": {
+        "statuscategorychangedate": "2020-02-19T10:56:51.959+0530",
+        "issuetype": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issuetype/10006",
+          "id": "10006",
+          "description": "Stories track functionality or features expressed as user goals.",
+          "iconUrl": "https://flygbra.atlassian.net/images/icons/issuetypes/story.svg",
+          "name": "Story",
+          "subtask": false
+        },
+        "timespent": null,
+        "project": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/project/10002",
+          "id": "10002",
+          "key": "AG",
+          "name": "Agile",
+          "projectTypeKey": "software",
+          "simplified": false,
+          "avatarUrls": {
+            "48x48": "https://flygbra.atlassian.net/secure/projectavatar?pid=10002&avatarId=10412",
+            "24x24": "https://flygbra.atlassian.net/secure/projectavatar?size=small&s=small&pid=10002&avatarId=10412",
+            "16x16": "https://flygbra.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&pid=10002&avatarId=10412",
+            "32x32": "https://flygbra.atlassian.net/secure/projectavatar?size=medium&s=medium&pid=10002&avatarId=10412"
+          }
+        },
+        "fixVersions": [
+        ],
+        "aggregatetimespent": null,
+        "resolution": null,
+        "resolutiondate": null,
+        "workratio": -1,
+        "watches": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issue/AG-5/watchers",
+          "watchCount": 1,
+          "isWatching": true
+        },
+        "lastViewed": "2020-02-19T10:54:52.338+0530",
+        "created": "2020-01-27T13:52:38.374+0530",
+        "customfield_10020": [
+          "com.atlassian.greenhopper.service.sprint.Sprint@2fa18eb1[id=1,rapidViewId=1,state=ACTIVE,name=AG Sprint 1,goal=,startDate=2020-02-19T05:26:29.473Z,endDate=2020-03-04T05:26:00.000Z,completeDate=<null>,sequence=1]"
+        ],
+        "customfield_10021": null,
+        "customfield_10022": null,
+        "priority": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/priority/3",
+          "iconUrl": "https://flygbra.atlassian.net/images/icons/priorities/medium.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "customfield_10023": null,
+        "labels": [
+        ],
+        "customfield_10026": null,
+        "customfield_10016": null,
+        "customfield_10017": null,
+        "customfield_10018": {
+          "hasEpicLinkFieldDependency": false,
+          "showField": false,
+          "nonEditableReason": {
+            "reason": "PLUGIN_LICENSE_ERROR",
+            "message": "The Parent Link is only available to Jira Premium users."
+          }
+        },
+        "customfield_10019": "0|i0002n:",
+        "aggregatetimeoriginalestimate": null,
+        "timeestimate": null,
+        "versions": [
+        ],
+        "issuelinks": [
+        ],
+        "assignee": null,
+        "updated": "2020-02-19T10:56:51.959+0530",
+        "status": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/status/3",
+          "description": "This issue is being actively worked on at the moment by the assignee.",
+          "iconUrl": "https://flygbra.atlassian.net/images/icons/statuses/inprogress.png",
+          "name": "In Progress",
+          "id": "3",
+          "statusCategory": {
+            "self": "https://flygbra.atlassian.net/rest/api/2/statuscategory/4",
+            "id": 4,
+            "key": "indeterminate",
+            "colorName": "yellow",
+            "name": "In Progress"
+          }
+        },
+        "components": [
+        ],
+        "timeoriginalestimate": null,
+        "description": "ACCEPTANCE CRITERIA:\n\n1.Text box must contain @ spl character.\n[2.No|http://2.No] special character allow in text box.\n3.space should not allowed in text box",
+        "customfield_10010": null,
+        "customfield_10014": null,
+        "customfield_10015": null,
+        "customfield_10005": null,
+        "customfield_10006": null,
+        "security": null,
+        "customfield_10007": null,
+        "customfield_10008": null,
+        "customfield_10009": null,
+        "aggregatetimeestimate": null,
+        "summary": "As a User i want to add Email ID text box so that customer can add its email-id during Transfer.",
+        "creator": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/user?accountId=5e27d7a80fa3a90c9eb69c8c",
+          "accountId": "5e27d7a80fa3a90c9eb69c8c",
+          "emailAddress": "dineshdina59@gmail.com",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=32&s=32"
+          },
+          "displayName": "D_ ina",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [
+        ],
+        "reporter": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/user?accountId=5e27d7a80fa3a90c9eb69c8c",
+          "accountId": "5e27d7a80fa3a90c9eb69c8c",
+          "emailAddress": "dineshdina59@gmail.com",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=32&s=32"
+          },
+          "displayName": "D_ ina",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+          "progress": 0,
+          "total": 0
+        },
+        "customfield_10000": "{}",
+        "customfield_10001": null,
+        "customfield_10002": null,
+        "customfield_10003": null,
+        "customfield_10004": null,
+        "environment": null,
+        "duedate": null,
+        "progress": {
+          "progress": 0,
+          "total": 0
+        },
+        "votes": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issue/AG-5/votes",
+          "votes": 0,
+          "hasVoted": false
+        }
+      }
+    },
+    {
+      "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+      "id": "10011",
+      "self": "https://flygbra.atlassian.net/rest/api/2/issue/10011",
+      "key": "AG-4",
+      "fields": {
+        "statuscategorychangedate": "2020-02-19T10:56:50.668+0530",
+        "issuetype": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issuetype/10006",
+          "id": "10006",
+          "description": "Stories track functionality or features expressed as user goals.",
+          "iconUrl": "https://flygbra.atlassian.net/images/icons/issuetypes/story.svg",
+          "name": "Story",
+          "subtask": false
+        },
+        "timespent": null,
+        "project": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/project/10002",
+          "id": "10002",
+          "key": "AG",
+          "name": "Agile",
+          "projectTypeKey": "software",
+          "simplified": false,
+          "avatarUrls": {
+            "48x48": "https://flygbra.atlassian.net/secure/projectavatar?pid=10002&avatarId=10412",
+            "24x24": "https://flygbra.atlassian.net/secure/projectavatar?size=small&s=small&pid=10002&avatarId=10412",
+            "16x16": "https://flygbra.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&pid=10002&avatarId=10412",
+            "32x32": "https://flygbra.atlassian.net/secure/projectavatar?size=medium&s=medium&pid=10002&avatarId=10412"
+          }
+        },
+        "fixVersions": [
+        ],
+        "aggregatetimespent": null,
+        "resolution": null,
+        "resolutiondate": null,
+        "workratio": -1,
+        "watches": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issue/AG-4/watchers",
+          "watchCount": 1,
+          "isWatching": true
+        },
+        "lastViewed": "2020-01-27T15:13:27.193+0530",
+        "created": "2020-01-27T13:48:41.600+0530",
+        "customfield_10020": [
+          "com.atlassian.greenhopper.service.sprint.Sprint@2fa18eb1[id=1,rapidViewId=1,state=ACTIVE,name=AG Sprint 1,goal=,startDate=2020-02-19T05:26:29.473Z,endDate=2020-03-04T05:26:00.000Z,completeDate=<null>,sequence=1]"
+        ],
+        "customfield_10021": null,
+        "customfield_10022": null,
+        "priority": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/priority/3",
+          "iconUrl": "https://flygbra.atlassian.net/images/icons/priorities/medium.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "customfield_10023": null,
+        "labels": [
+        ],
+        "customfield_10026": null,
+        "customfield_10016": null,
+        "customfield_10017": null,
+        "customfield_10018": {
+          "hasEpicLinkFieldDependency": false,
+          "showField": false,
+          "nonEditableReason": {
+            "reason": "PLUGIN_LICENSE_ERROR",
+            "message": "The Parent Link is only available to Jira Premium users."
+          }
+        },
+        "customfield_10019": "0|i0002f:",
+        "aggregatetimeoriginalestimate": null,
+        "timeestimate": null,
+        "versions": [
+        ],
+        "issuelinks": [
+        ],
+        "assignee": null,
+        "updated": "2020-02-19T10:56:50.668+0530",
+        "status": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/status/3",
+          "description": "This issue is being actively worked on at the moment by the assignee.",
+          "iconUrl": "https://flygbra.atlassian.net/images/icons/statuses/inprogress.png",
+          "name": "In Progress",
+          "id": "3",
+          "statusCategory": {
+            "self": "https://flygbra.atlassian.net/rest/api/2/statuscategory/4",
+            "id": 4,
+            "key": "indeterminate",
+            "colorName": "yellow",
+            "name": "In Progress"
+          }
+        },
+        "components": [
+        ],
+        "timeoriginalestimate": null,
+        "description": "ACCEPTANCE CRITERIA:\n\n1.Only Character should allow\n2.Number should not allow\n3.Character should min 6 and max 8\n[4.N|http://4.NO]o special character allowed",
+        "customfield_10010": null,
+        "customfield_10014": null,
+        "customfield_10015": null,
+        "customfield_10005": null,
+        "customfield_10006": null,
+        "customfield_10007": null,
+        "security": null,
+        "customfield_10008": null,
+        "customfield_10009": null,
+        "aggregatetimeestimate": null,
+        "summary": "As a User i want to add Nick name tab  so that customer can add its nick name",
+        "creator": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/user?accountId=5e27d7a80fa3a90c9eb69c8c",
+          "accountId": "5e27d7a80fa3a90c9eb69c8c",
+          "emailAddress": "dineshdina59@gmail.com",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=32&s=32"
+          },
+          "displayName": "D_ ina",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [
+        ],
+        "reporter": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/user?accountId=5e27d7a80fa3a90c9eb69c8c",
+          "accountId": "5e27d7a80fa3a90c9eb69c8c",
+          "emailAddress": "dineshdina59@gmail.com",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=32&s=32"
+          },
+          "displayName": "D_ ina",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+          "progress": 0,
+          "total": 0
+        },
+        "customfield_10000": "{}",
+        "customfield_10001": null,
+        "customfield_10002": null,
+        "customfield_10003": null,
+        "customfield_10004": null,
+        "environment": null,
+        "duedate": null,
+        "progress": {
+          "progress": 0,
+          "total": 0
+        },
+        "votes": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issue/AG-4/votes",
+          "votes": 0,
+          "hasVoted": false
+        }
+      }
+    },
+    {
+      "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+      "id": "10010",
+      "self": "https://flygbra.atlassian.net/rest/api/2/issue/10010",
+      "key": "AG-3",
+      "fields": {
+        "statuscategorychangedate": "2020-02-19T10:56:48.859+0530",
+        "issuetype": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issuetype/10006",
+          "id": "10006",
+          "description": "Stories track functionality or features expressed as user goals.",
+          "iconUrl": "https://flygbra.atlassian.net/images/icons/issuetypes/story.svg",
+          "name": "Story",
+          "subtask": false
+        },
+        "timespent": null,
+        "project": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/project/10002",
+          "id": "10002",
+          "key": "AG",
+          "name": "Agile",
+          "projectTypeKey": "software",
+          "simplified": false,
+          "avatarUrls": {
+            "48x48": "https://flygbra.atlassian.net/secure/projectavatar?pid=10002&avatarId=10412",
+            "24x24": "https://flygbra.atlassian.net/secure/projectavatar?size=small&s=small&pid=10002&avatarId=10412",
+            "16x16": "https://flygbra.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&pid=10002&avatarId=10412",
+            "32x32": "https://flygbra.atlassian.net/secure/projectavatar?size=medium&s=medium&pid=10002&avatarId=10412"
+          }
+        },
+        "fixVersions": [
+        ],
+        "aggregatetimespent": null,
+        "resolution": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/resolution/10000",
+          "id": "10000",
+          "description": "Work has been completed on this issue.",
+          "name": "Done"
+        },
+        "resolutiondate": "2020-02-19T10:56:48.856+0530",
+        "workratio": -1,
+        "lastViewed": "2020-01-27T15:12:52.961+0530",
+        "watches": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issue/AG-3/watchers",
+          "watchCount": 1,
+          "isWatching": true
+        },
+        "created": "2020-01-27T13:46:00.932+0530",
+        "customfield_10020": [
+          "com.atlassian.greenhopper.service.sprint.Sprint@2fa18eb1[id=1,rapidViewId=1,state=ACTIVE,name=AG Sprint 1,goal=,startDate=2020-02-19T05:26:29.473Z,endDate=2020-03-04T05:26:00.000Z,completeDate=<null>,sequence=1]"
+        ],
+        "customfield_10021": null,
+        "customfield_10022": null,
+        "customfield_10023": "10000_*:*_1_*:*_1977047939_*|*_10002_*:*_1_*:*_0",
+        "priority": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/priority/3",
+          "iconUrl": "https://flygbra.atlassian.net/images/icons/priorities/medium.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "customfield_10026": null,
+        "labels": [
+        ],
+        "customfield_10016": null,
+        "customfield_10017": null,
+        "customfield_10018": {
+          "hasEpicLinkFieldDependency": false,
+          "showField": false,
+          "nonEditableReason": {
+            "reason": "PLUGIN_LICENSE_ERROR",
+            "message": "The Parent Link is only available to Jira Premium users."
+          }
+        },
+        "customfield_10019": "0|i00027:",
+        "aggregatetimeoriginalestimate": null,
+        "timeestimate": null,
+        "versions": [
+        ],
+        "issuelinks": [
+        ],
+        "assignee": null,
+        "updated": "2020-02-19T10:56:48.859+0530",
+        "status": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/status/10002",
+          "description": "",
+          "iconUrl": "https://flygbra.atlassian.net/",
+          "name": "Done",
+          "id": "10002",
+          "statusCategory": {
+            "self": "https://flygbra.atlassian.net/rest/api/2/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        },
+        "components": [
+        ],
+        "timeoriginalestimate": null,
+        "description": "ACCEPTANCE CRITERIA:\n\n1.Only number should allow in text box\n2.Character should not allow in text box\n3.Number should be 10 Number\n4.Number should match with the account number.",
+        "customfield_10010": null,
+        "customfield_10014": null,
+        "customfield_10015": null,
+        "customfield_10005": null,
+        "customfield_10006": null,
+        "customfield_10007": null,
+        "security": null,
+        "customfield_10008": null,
+        "aggregatetimeestimate": null,
+        "customfield_10009": null,
+        "summary": "As a User i want to Re-enter Account number text box so that we can the account number and re-enter number is correct.",
+        "creator": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/user?accountId=5e27d7a80fa3a90c9eb69c8c",
+          "accountId": "5e27d7a80fa3a90c9eb69c8c",
+          "emailAddress": "dineshdina59@gmail.com",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=32&s=32"
+          },
+          "displayName": "D_ ina",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [
+        ],
+        "reporter": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/user?accountId=5e27d7a80fa3a90c9eb69c8c",
+          "accountId": "5e27d7a80fa3a90c9eb69c8c",
+          "emailAddress": "dineshdina59@gmail.com",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=32&s=32"
+          },
+          "displayName": "D_ ina",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+          "progress": 0,
+          "total": 0
+        },
+        "customfield_10000": "{}",
+        "customfield_10001": null,
+        "customfield_10002": null,
+        "customfield_10003": null,
+        "customfield_10004": null,
+        "environment": null,
+        "duedate": null,
+        "progress": {
+          "progress": 0,
+          "total": 0
+        },
+        "votes": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issue/AG-3/votes",
+          "votes": 0,
+          "hasVoted": false
+        }
+      }
+    },
+    {
+      "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+      "id": "10009",
+      "self": "https://flygbra.atlassian.net/rest/api/2/issue/10009",
+      "key": "AG-2",
+      "fields": {
+        "statuscategorychangedate": "2020-02-19T10:56:45.887+0530",
+        "issuetype": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issuetype/10006",
+          "id": "10006",
+          "description": "Stories track functionality or features expressed as user goals.",
+          "iconUrl": "https://flygbra.atlassian.net/images/icons/issuetypes/story.svg",
+          "name": "Story",
+          "subtask": false
+        },
+        "timespent": null,
+        "project": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/project/10002",
+          "id": "10002",
+          "key": "AG",
+          "name": "Agile",
+          "projectTypeKey": "software",
+          "simplified": false,
+          "avatarUrls": {
+            "48x48": "https://flygbra.atlassian.net/secure/projectavatar?pid=10002&avatarId=10412",
+            "24x24": "https://flygbra.atlassian.net/secure/projectavatar?size=small&s=small&pid=10002&avatarId=10412",
+            "16x16": "https://flygbra.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&pid=10002&avatarId=10412",
+            "32x32": "https://flygbra.atlassian.net/secure/projectavatar?size=medium&s=medium&pid=10002&avatarId=10412"
+          }
+        },
+        "fixVersions": [
+        ],
+        "aggregatetimespent": null,
+        "resolution": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/resolution/10000",
+          "id": "10000",
+          "description": "Work has been completed on this issue.",
+          "name": "Done"
+        },
+        "resolutiondate": "2020-02-19T10:56:45.884+0530",
+        "workratio": -1,
+        "watches": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issue/AG-2/watchers",
+          "watchCount": 1,
+          "isWatching": true
+        },
+        "lastViewed": "2020-02-19T11:00:39.110+0530",
+        "created": "2020-01-27T13:44:44.908+0530",
+        "customfield_10020": [
+          "com.atlassian.greenhopper.service.sprint.Sprint@2fa18eb1[id=1,rapidViewId=1,state=ACTIVE,name=AG Sprint 1,goal=,startDate=2020-02-19T05:26:29.473Z,endDate=2020-03-04T05:26:00.000Z,completeDate=<null>,sequence=1]"
+        ],
+        "customfield_10021": null,
+        "customfield_10022": null,
+        "customfield_10023": "10000_*:*_1_*:*_1977120991_*|*_10002_*:*_1_*:*_0",
+        "priority": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/priority/3",
+          "iconUrl": "https://flygbra.atlassian.net/images/icons/priorities/medium.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "labels": [
+        ],
+        "customfield_10026": null,
+        "customfield_10016": null,
+        "customfield_10017": null,
+        "customfield_10018": {
+          "hasEpicLinkFieldDependency": false,
+          "showField": false,
+          "nonEditableReason": {
+            "reason": "PLUGIN_LICENSE_ERROR",
+            "message": "The Parent Link is only available to Jira Premium users."
+          }
+        },
+        "customfield_10019": "0|i0001n:",
+        "timeestimate": null,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [
+        ],
+        "issuelinks": [
+        ],
+        "assignee": null,
+        "updated": "2020-02-19T10:56:45.887+0530",
+        "status": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/status/10002",
+          "description": "",
+          "iconUrl": "https://flygbra.atlassian.net/",
+          "name": "Done",
+          "id": "10002",
+          "statusCategory": {
+            "self": "https://flygbra.atlassian.net/rest/api/2/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        },
+        "components": [
+        ],
+        "timeoriginalestimate": null,
+        "description": "ACCEPTANCE CRITERIA:\n\n1.Only number should allow in text box\n2.Character should not allow in text box\n3.Number should be 10 digit",
+        "customfield_10010": null,
+        "customfield_10014": null,
+        "customfield_10015": null,
+        "customfield_10005": null,
+        "customfield_10006": null,
+        "customfield_10007": null,
+        "security": null,
+        "customfield_10008": null,
+        "customfield_10009": null,
+        "aggregatetimeestimate": null,
+        "summary": "As a User i want to add Account number text box so that customer can transfer the correct receiver",
+        "creator": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/user?accountId=5e27d7a80fa3a90c9eb69c8c",
+          "accountId": "5e27d7a80fa3a90c9eb69c8c",
+          "emailAddress": "dineshdina59@gmail.com",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=32&s=32"
+          },
+          "displayName": "D_ ina",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [
+        ],
+        "reporter": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/user?accountId=5e27d7a80fa3a90c9eb69c8c",
+          "accountId": "5e27d7a80fa3a90c9eb69c8c",
+          "emailAddress": "dineshdina59@gmail.com",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=32&s=32"
+          },
+          "displayName": "D_ ina",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "aggregateprogress": {
+          "progress": 0,
+          "total": 0
+        },
+        "customfield_10000": "{}",
+        "customfield_10001": null,
+        "customfield_10002": null,
+        "customfield_10003": null,
+        "customfield_10004": null,
+        "environment": null,
+        "duedate": null,
+        "progress": {
+          "progress": 0,
+          "total": 0
+        },
+        "votes": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issue/AG-2/votes",
+          "votes": 0,
+          "hasVoted": false
+        }
+      }
+    },
+    {
+      "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+      "id": "10008",
+      "self": "https://flygbra.atlassian.net/rest/api/2/issue/10008",
+      "key": "AG-1",
+      "fields": {
+        "statuscategorychangedate": "2020-02-19T10:56:41.817+0530",
+        "issuetype": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issuetype/10006",
+          "id": "10006",
+          "description": "Stories track functionality or features expressed as user goals.",
+          "iconUrl": "https://flygbra.atlassian.net/images/icons/issuetypes/story.svg",
+          "name": "Story",
+          "subtask": false
+        },
+        "timespent": null,
+        "project": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/project/10002",
+          "id": "10002",
+          "key": "AG",
+          "name": "Agile",
+          "projectTypeKey": "software",
+          "simplified": false,
+          "avatarUrls": {
+            "48x48": "https://flygbra.atlassian.net/secure/projectavatar?pid=10002&avatarId=10412",
+            "24x24": "https://flygbra.atlassian.net/secure/projectavatar?size=small&s=small&pid=10002&avatarId=10412",
+            "16x16": "https://flygbra.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&pid=10002&avatarId=10412",
+            "32x32": "https://flygbra.atlassian.net/secure/projectavatar?size=medium&s=medium&pid=10002&avatarId=10412"
+          }
+        },
+        "fixVersions": [
+        ],
+        "aggregatetimespent": null,
+        "resolution": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/resolution/10000",
+          "id": "10000",
+          "description": "Work has been completed on this issue.",
+          "name": "Done"
+        },
+        "resolutiondate": "2020-02-19T10:56:41.812+0530",
+        "workratio": -1,
+        "watches": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issue/AG-1/watchers",
+          "watchCount": 1,
+          "isWatching": true
+        },
+        "lastViewed": "2020-02-19T10:59:02.886+0530",
+        "created": "2020-01-27T13:43:59.167+0530",
+        "customfield_10020": [
+          "com.atlassian.greenhopper.service.sprint.Sprint@2fa18eb1[id=1,rapidViewId=1,state=ACTIVE,name=AG Sprint 1,goal=,startDate=2020-02-19T05:26:29.473Z,endDate=2020-03-04T05:26:00.000Z,completeDate=<null>,sequence=1]"
+        ],
+        "customfield_10021": null,
+        "customfield_10022": null,
+        "customfield_10023": "3_*:*_1_*:*_4133_*|*_10000_*:*_1_*:*_1977158531_*|*_10002_*:*_1_*:*_0",
+        "priority": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/priority/3",
+          "iconUrl": "https://flygbra.atlassian.net/images/icons/priorities/medium.svg",
+          "name": "Medium",
+          "id": "3"
+        },
+        "customfield_10026": null,
+        "labels": [
+        ],
+        "customfield_10016": null,
+        "customfield_10017": null,
+        "customfield_10018": {
+          "hasEpicLinkFieldDependency": false,
+          "showField": false,
+          "nonEditableReason": {
+            "reason": "PLUGIN_LICENSE_ERROR",
+            "message": "The Parent Link is only available to Jira Premium users."
+          }
+        },
+        "customfield_10019": "0|i0001l:",
+        "timeestimate": null,
+        "aggregatetimeoriginalestimate": null,
+        "versions": [
+        ],
+        "issuelinks": [
+        ],
+        "assignee": null,
+        "updated": "2020-02-19T10:56:41.817+0530",
+        "status": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/status/10002",
+          "description": "",
+          "iconUrl": "https://flygbra.atlassian.net/",
+          "name": "Done",
+          "id": "10002",
+          "statusCategory": {
+            "self": "https://flygbra.atlassian.net/rest/api/2/statuscategory/3",
+            "id": 3,
+            "key": "done",
+            "colorName": "green",
+            "name": "Done"
+          }
+        },
+        "components": [
+        ],
+        "timeoriginalestimate": null,
+        "description": "ACCEPTANCE CRITERIA:\n\n1.Add Tab from fund transfer.\n2.Only transfer related text box present in Transfer tab.\n3. Don't include  any information apart from that.\n\n",
+        "customfield_10010": null,
+        "customfield_10014": null,
+        "customfield_10015": null,
+        "customfield_10005": null,
+        "customfield_10006": null,
+        "security": null,
+        "customfield_10007": null,
+        "customfield_10008": null,
+        "customfield_10009": null,
+        "aggregatetimeestimate": null,
+        "summary": "As a User i want to add Fund Transfer tab so that customer can transfer the money",
+        "creator": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/user?accountId=5e27d7a80fa3a90c9eb69c8c",
+          "accountId": "5e27d7a80fa3a90c9eb69c8c",
+          "emailAddress": "dineshdina59@gmail.com",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=32&s=32"
+          },
+          "displayName": "D_ ina",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "subtasks": [
+        ],
+        "reporter": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/user?accountId=5e27d7a80fa3a90c9eb69c8c",
+          "accountId": "5e27d7a80fa3a90c9eb69c8c",
+          "emailAddress": "dineshdina59@gmail.com",
+          "avatarUrls": {
+            "48x48": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=48&s=48",
+            "24x24": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=24&s=24",
+            "16x16": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=16&s=16",
+            "32x32": "https://secure.gravatar.com/avatar/c8ee4fb8203fdbf2027cfe5686937928?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FDI-5.png&size=32&s=32"
+          },
+          "displayName": "D_ ina",
+          "active": true,
+          "timeZone": "Asia/Calcutta",
+          "accountType": "atlassian"
+        },
+        "customfield_10000": "{}",
+        "aggregateprogress": {
+          "progress": 0,
+          "total": 0
+        },
+        "customfield_10001": null,
+        "customfield_10002": null,
+        "customfield_10003": null,
+        "customfield_10004": null,
+        "environment": null,
+        "duedate": null,
+        "progress": {
+          "progress": 0,
+          "total": 0
+        },
+        "votes": {
+          "self": "https://flygbra.atlassian.net/rest/api/2/issue/AG-1/votes",
+          "votes": 0,
+          "hasVoted": false
+        }
+      }
+    }
+  ]
+}
+

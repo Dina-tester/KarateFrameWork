@@ -1,0 +1,13 @@
+<testsuite failures="0" name="com/maveric/UserDetails.feature" skipped="0" tests="1" time="3.265864">
+  <testcase classname="com.maveric.UserDetails" name="Get call test" time="3.265864">
+    <system-out>Given url 'https://reqres.in/api/users/2' ................................. passed
+When method Get ........................................................... passed
+Then status 200 ........................................................... passed
+And print response ........................................................ passed
+And def expectedResult = read('flygbra.json') ............................. passed
+And match response == expectedResult ...................................... passed
+* match response.data.id == 2 ............................................. passed
+* match response.data.last_name != null ................................... passed
+* match response.data.first_name != null .................................. passed</system-out>
+  </testcase>
+</testsuite>

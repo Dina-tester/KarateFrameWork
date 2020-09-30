@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.junit.AfterClass"/>
+    <fullyQualifiedTypeName name="com.intuit.karate.Runner"/>
+    <fullyQualifiedTypeName name="com.intuit.karate.Results"/>
+    <fullyQualifiedTypeName name="com.intuit.karate.junit5.Karate"/>
+    <fullyQualifiedTypeName name="com.intuit.karate.junit5.Karate.Test"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.Test"/>
+    <fullyQualifiedTypeName name="com.intuit.karate.KarateOptions"/>
+    <fullyQualifiedTypeName name="org.junit.Test"/>
+    <fullyQualifiedTypeName name="com.intuit.karate.junit4.Karate"/>
+    <fullyQualifiedTypeName name="org.junit.runner.RunWith"/>
+    <fullyQualifiedTypeName name="net.masterthought.cucumber.Configuration"/>
+    <fullyQualifiedTypeName name="net.masterthought.cucumber.ReportBuilder"/>
+    <fullyQualifiedTypeName name="net.masterthought.cucumber.Reportable"/>
+    <fullyQualifiedTypeName name="net.masterthought.cucumber.json.support.Status"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+</qualifiedTypeNameHistroy>

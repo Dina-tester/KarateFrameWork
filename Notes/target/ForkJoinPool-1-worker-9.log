@@ -1,0 +1,191 @@
+19:24:44.194 skipping bootstrap configuration: could not find or read file: classpath:karate-config.js
+19:24:45.635 request:
+1 > GET https://reqres.in/api/users/2
+1 > Accept-Encoding: gzip,deflate
+1 > Connection: Keep-Alive
+1 > Host: reqres.in
+1 > User-Agent: Apache-HttpClient/4.5.11 (Java/9)
+
+19:24:47.584 response time in milliseconds: 1955.46
+1 < 200
+1 < Access-Control-Allow-Origin: *
+1 < Age: 3840
+1 < CF-Cache-Status: HIT
+1 < CF-RAY: 58a0cc0c8a7be3aa-ATL
+1 < Cache-Control: max-age=14400
+1 < Connection: keep-alive
+1 < Content-Type: application/json; charset=utf-8
+1 < Date: Sun, 26 Apr 2020 13:54:40 GMT
+1 < Etag: W/"173-1Z8bn0V7UjH6FK7NCaza1ccWXQk"
+1 < Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+1 < Server: cloudflare
+1 < Set-Cookie: __cfduid=d0df2df7320fff02c43e48b3f3126a1aa1587909280; expires=Tue, 26-May-20 13:54:40 GMT; path=/; domain=.reqres.in; HttpOnly; SameSite=Lax; Secure
+1 < Transfer-Encoding: chunked
+1 < Vary: Accept-Encoding
+1 < Via: 1.1 vegur
+1 < X-Powered-By: Express
+1 < cf-request-id: 02585ddbd80000e3aab2a45200000001
+{"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg"},"ad":{"company":"StatusCode Weekly","url":"http://statuscode.org/","text":"A weekly newsletter focusing on software development, infrastructure, the server, performance, and the stack end of things."}}
+
+19:24:47.604 [print] {
+  "ad": {
+    "company": "StatusCode Weekly",
+    "text": "A weekly newsletter focusing on software development, infrastructure, the server, performance, and the stack end of things.",
+    "url": "http://statuscode.org/"
+  },
+  "data": {
+    "last_name": "Weaver",
+    "id": 2,
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg",
+    "first_name": "Janet",
+    "email": "janet.weaver@reqres.in"
+  }
+}
+
+19:05:28.323 assertion failed: path: $, actual: {"ad":{"company":"StatusCode Weekly","text":"A weekly newsletter focusing on software development, infrastructure, the server, performance, and the stack end of things.","url":"http:\/\/statuscode.org\/"},"data":{"last_name":"Weaver","id":2,"avatar":"https:\/\/s3.amazonaws.com\/uifaces\/faces\/twitter\/josephstein\/128.jpg","first_name":"Janet","email":"janet.weaver@reqres.in"}}, expected: null, reason: actual value is not null
+n, 26 Apr 2020 13:32:33 GMT
+1 < Etag: W/"16e-/dQyOreIv6pEupp8RbP+u+utK/A"
+1 < Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+1 < Server: cloudflare
+1 < Set-Cookie: __cfduid=d7bdf6e3ce41a8eba1969d26e12a3f9731587907953; expires=Tue, 26-May-20 13:32:33 GMT; path=/; domain=.reqres.in; HttpOnly; SameSite=Lax; Secure
+1 < Transfer-Encoding: chunked
+1 < Vary: Accept-Encoding
+1 < Via: 1.1 vegur
+1 < X-Powered-By: Express
+1 < cf-request-id: 0258499ab90000827797af5200000001
+{"data":{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/olegpogodaev/128.jpg"},"ad":{"company":"StatusCode Weekly","url":"http://statuscode.org/","text":"A weekly newsletter focusing on software development, infrastructure, the server, performance, and the stack end of things."}}
+
+19:02:40.147 [print] {
+  "ad": {
+    "company": "StatusCode Weekly",
+    "text": "A weekly newsletter focusing on software development, infrastructure, the server, performance, and the stack end of things.",
+    "url": "http://statuscode.org/"
+  },
+  "data": {
+    "last_name": "Wong",
+    "id": 3,
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/olegpogodaev/128.jpg",
+    "first_name": "Emma",
+    "email": "emma.wong@reqres.in"
+  }
+}
+
+19:02:40.178 [print] Output of UserDetails2 {
+  "__arg": null,
+  "responseType": "json",
+  "responseHeaders": {
+    "Date": [
+      "Sun, 26 Apr 2020 13:32:31 GMT"
+    ],
+    "Content-Type": [
+      "application/json; charset=utf-8"
+    ],
+    "Transfer-Encoding": [
+      "chunked"
+    ],
+    "Connection": [
+      "keep-alive"
+    ],
+    "Set-Cookie": [
+      "__cfduid=d6d750f5d042b03f8df47d432db6f94b31587907951; expires=Tue, 26-May-20 13:32:31 GMT; path=/; domain=.reqres.in; HttpOnly; SameSite=Lax; Secure"
+    ],
+    "X-Powered-By": [
+      "Express"
+    ],
+    "Access-Control-Allow-Origin": [
+      "*"
+    ],
+    "Etag": [
+      "W/\"173-1Z8bn0V7UjH6FK7NCaza1ccWXQk\""
+    ],
+    "Via": [
+      "1.1 vegur"
+    ],
+    "Cache-Control": [
+      "max-age=14400"
+    ],
+    "CF-Cache-Status": [
+      "HIT"
+    ],
+    "Age": [
+      "2511"
+    ],
+    "Expect-CT": [
+      "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\""
+    ],
+    "Vary": [
+      "Accept-Encoding"
+    ],
+    "Server": [
+      "cloudflare"
+    ],
+    "CF-RAY": [
+      "58a0ab9b0f1382a7-ATL"
+    ],
+    "cf-request-id": [
+      "02584994e7000082a772bd9200000001"
+    ]
+  },
+  "responseTime": 3478,
+  "response": {
+    "ad": {
+      "company": "StatusCode Weekly",
+      "text": "A weekly newsletter focusing on software development, infrastructure, the server, performance, and the stack end of things.",
+      "url": "http://statuscode.org/"
+    },
+    "data": {
+      "last_name": "Weaver",
+      "id": 2,
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg",
+      "first_name": "Janet",
+      "email": "janet.weaver@reqres.in"
+    }
+  },
+  "requestTimeStamp": 1587907955712,
+  "expectedOutput": [
+    {
+      "data": {
+        "id": 2,
+        "email": "janet.weaver@reqres.in",
+        "first_name": "Janet",
+        "last_name": "Weaver",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg"
+      },
+      "ad": {
+        "company": "StatusCode Weekly",
+        "url": "http://statuscode.org/",
+        "text": "A weekly newsletter focusing on software development, infrastructure, the server, performance, and the stack end of things."
+      }
+    },
+    {
+      "data": {
+        "id": 3,
+        "email": "emma.wong@reqres.in",
+        "first_name": "Emma",
+        "last_name": "Wong",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/olegpogodaev/128.jpg"
+      },
+      "ad": {
+        "company": "StatusCode Weekly",
+        "url": "http://statuscode.org/",
+        "text": "A weekly newsletter focusing on software development, infrastructure, the server, performance, and the stack end of things."
+      }
+    }
+  ],
+  "responseStatus": 200,
+  "__loop": -1,
+  "responseCookies": {
+    "__cfduid": {
+      "name": "__cfduid",
+      "value": "d6d750f5d042b03f8df47d432db6f94b31587907951",
+      "domain": "reqres.in",
+      "path": "/",
+      "expires": "1590499951000",
+      "persistent": "true",
+      "secure": "true"
+    }
+  }
+}
+
+19:02:40.225 [print] UserDetails2_first_name Janet
+
